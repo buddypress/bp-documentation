@@ -1,0 +1,38 @@
+name: Ignore task
+description: File a task to ignore a BP Codex page migration.
+title: "[Ignore]: "
+projects: ["buddypress/2"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this "ignore" task!
+  - type: input
+    id: codexLink
+    attributes:
+      label: Link to the existing BP Codex page.
+      description: This will not be so useful but it's always good to have details!
+      placeholder: https://codex.buddypress.org/?p=0
+    validations:
+      required: false
+  - type: textarea
+    id: why-ignoring
+    attributes:
+      label: Why should we ignore this page?
+      description: Explain why you think we should not migrate this page to one of the `buddypress/docs` Handbooks?
+      placeholder: This is where you write the why!
+      value: "Because BuddyPress is not using this anymore!"
+    validations:
+      required: true
+  - type: checkboxes
+    id: taskTracker
+    attributes:
+      label: Tasks to accomplish
+      description: This is a reminder about steps needed for this Documentation resource to be ignored.
+      options:
+        - label: This task has been added to the "Todo" panel of the Documentation project.
+          required: false
+        - label: One of the BuddyPress Core committer reviewed it and agreed to ignore this Codex page.
+          required: false
+        - label: The task was moved to the "Done"  panel of the Documentation project.
+          required: false

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+    - name: BuddyPress Codex
+      url: https://codex.buddypress.org/
+      about: The wiki flavoured & legacy BuddyPress documentation resources to migrate.
+    - name: buddypress/docs
+      url: https://github.com/buddypress/buddypress/tree/master/docs
+      about: The temporary and GH browsable Documentation resources migrated from the BP Codex

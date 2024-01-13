@@ -1,0 +1,42 @@
+name: Add task
+description: File a task to create a new `buddypress/docs` Documentation resource.
+title: "[Add]: "
+projects: ["buddypress/2"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this task to add a new Documentation page to!
+  - type: textarea
+    id: what-needs-to-be-done
+    attributes:
+      label: What needs to be done?
+      description: What this new documentation needs to explain and how?
+      placeholder: This is what needs to be done!
+      value: "Explain how this should be used!"
+    validations:
+      required: true
+  - type: dropdown
+    id: handbook
+    attributes:
+      label: Handbook to add the page in
+      description: Select the temporary GH Handbook you think the page should be added to.
+      options:
+        - buddypress/docs/user
+        - buddypress/docs/developer
+        - buddypress/docs/contributor
+      default: 0
+    validations:
+      required: true
+  - type: checkboxes
+    id: taskTracker
+    attributes:
+      label: Tasks to accomplish
+      description: This is a reminder about steps needed for this Documentation resource to be created.
+      options:
+        - label: This task has been added to the "Todo" panel of the Documentation project.
+          required: false
+        - label: A PR has been submitted to the BuddyPress GH repository, it has been linked to this issue/task & the task was moved to the "In progress" panel of the Documentation project.
+          required: false
+        - label: The PR has been converted to a SVN patch and committed to the BuddyPress SVN repository & the task was moved to the "Done"  panel of the Documentation project.
+          required: false

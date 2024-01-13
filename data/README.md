@@ -1,5 +1,8 @@
 # Codex pages
 
+- ♻️ Migrate issue/task created.
+- 🛑 Ignore issue/task created.
+
 Page ID | Title | Link | Published on
 --- | --- | --- | ---
 15958 |  Activity Embeds | [https://codex.buddypress.org/?p=15958](https://codex.buddypress.org/?p=15958) | 2016/06/15
@@ -65,7 +68,7 @@ Page ID | Title | Link | Published on
 6533 |  — — Preventing Spammer Registration | [https://codex.buddypress.org/?p=6533](https://codex.buddypress.org/?p=6533) | 2013/10/31
 4408 |  — — Migrating from old forums to bbPress 2.2+ | [https://codex.buddypress.org/?p=4408](https://codex.buddypress.org/?p=4408) | 2012/11/22
 8542 |  Administrator Guide | [https://codex.buddypress.org/?p=8542](https://codex.buddypress.org/?p=8542) | 2014/11/09
-17466 |  — Alternative Registration Workflows | [https://codex.buddypress.org/?p=17466](https://codex.buddypress.org/?p=17466) | 2021/12/15
+♻️ 17466 |  — Alternative Registration Workflows | [https://codex.buddypress.org/?p=17466](https://codex.buddypress.org/?p=17466) | 2021/12/15
 5680 |  — Members | [https://codex.buddypress.org/?p=5680](https://codex.buddypress.org/?p=5680) | 2013/05/07
 5647 |  — Messages | [https://codex.buddypress.org/?p=5647](https://codex.buddypress.org/?p=5647) | 2013/05/07
 7846 |  — Manage User Signups | [https://codex.buddypress.org/?p=7846](https://codex.buddypress.org/?p=7846) | 2014/04/16

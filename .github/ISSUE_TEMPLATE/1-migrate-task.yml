@@ -1,0 +1,52 @@
+name: Migrate task
+description: File a BP Codex to `buddypress/docs` migrate task.
+title: "[Migrate]: "
+projects: ["buddypress/2"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this migrate task!
+  - type: input
+    id: codexLink
+    attributes:
+      label: Link to the existing BP Codex page.
+      description: This will be useful to get the content to update and edit the Codex page with a link to the `buddypress/docs` Markdown file.
+      placeholder: https://codex.buddypress.org/?p=0
+    validations:
+      required: true
+  - type: textarea
+    id: what-needs-to-be-done
+    attributes:
+      label: What needs to be done?
+      description: Do we have to simply migrate the content, update some texts, refresh the screenshots, etc..?
+      placeholder: This is what needs to be done!
+      value: "Ready to be migrated!"
+    validations:
+      required: true
+  - type: dropdown
+    id: handbook
+    attributes:
+      label: Handbook to migrate the page in
+      description: Select the temporary GH Handbook you think the page should be migrated to.
+      options:
+        - buddypress/docs/user
+        - buddypress/docs/developer
+        - buddypress/docs/contributor
+      default: 0
+    validations:
+      required: true
+  - type: checkboxes
+    id: taskTracker
+    attributes:
+      label: Tasks to accomplish
+      description: This is a reminder about steps needed for this Documentation resource to be migrated.
+      options:
+        - label: This task has been added to the "Todo" panel of the Documentation project.
+          required: false
+        - label: The corresponding line of the `data/README.md` Pages list has been marked as "Migrate issue/task created".
+          required: false
+        - label: A PR has been submitted to the BuddyPress GH repository, it has been linked to this issue/task & the task was moved to the "In progress" panel of the Documentation project.
+          required: false
+        - label: The PR has been converted to a SVN patch and committed to the BuddyPress SVN repository & the task was moved to the "Done"  panel of the Documentation project.
+          required: false
