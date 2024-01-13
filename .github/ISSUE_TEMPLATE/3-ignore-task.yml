@@ -32,7 +32,9 @@ body:
       options:
         - label: This task has been added to the "Todo" panel of the Documentation project.
           required: false
+        - label: The corresponding line of the `data/README.md` Pages list has been marked as "Ignore issue/task created".
+          required: false
         - label: One of the BuddyPress Core committer reviewed it and agreed to ignore this Codex page.
           required: false
-        - label: The task was moved to the "Done"  panel of the Documentation project.
+        - label: The task was moved to the "Done" panel of the Documentation project.
           required: false
