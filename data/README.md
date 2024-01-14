@@ -35,7 +35,7 @@ Page ID | Title | Link | Published on
 8514 |  — Installation in WordPress Multisite | [https://codex.buddypress.org/?p=8514](https://codex.buddypress.org/?p=8514) | 2014/11/07
 6059 |  — Configure BuddyPress | [https://codex.buddypress.org/?p=6059](https://codex.buddypress.org/?p=6059) | 2013/04/10
 8521 |  — Configure BuddyPress for Multisite | [https://codex.buddypress.org/?p=8521](https://codex.buddypress.org/?p=8521) | 2014/11/07
-14822 |  — BuddyPress Links in WordPress Menus | [https://codex.buddypress.org/?p=14822](https://codex.buddypress.org/?p=14822) | 2015/03/05
+♻️ 14822 |  — BuddyPress Links in WordPress Menus | [https://codex.buddypress.org/?p=14822](https://codex.buddypress.org/?p=14822) | 2015/03/05
 5062 |  — Installing Group and Sitewide Forums | [https://codex.buddypress.org/?p=5062](https://codex.buddypress.org/?p=5062) | 2013/01/03
 1844 |  — Customizing | [https://codex.buddypress.org/?p=1844](https://codex.buddypress.org/?p=1844) | 2010/09/15
 7915 |  — — BuddyPress in Your Language | [https://codex.buddypress.org/?p=7915](https://codex.buddypress.org/?p=7915) | 2014/04/25
@@ -200,7 +200,7 @@ Page ID | Title | Link | Published on
 8603 |  — — Useful Functions and Hacks When Using S2member w/ BuddyPress | [https://codex.buddypress.org/?p=8603](https://codex.buddypress.org/?p=8603) | 2014/11/19
 7843 |  — Using bp_parse_args() to filter BuddyPress template loops | [https://codex.buddypress.org/?p=7843](https://codex.buddypress.org/?p=7843) | 2014/04/16
 854 |  — Template Tag Reference | [https://codex.buddypress.org/?p=854](https://codex.buddypress.org/?p=854) | 2009/06/12
-5957 |  — Group Extension API | [https://codex.buddypress.org/?p=5957](https://codex.buddypress.org/?p=5957) | 2013/07/16
+♻️ 5957 |  — Group Extension API | [https://codex.buddypress.org/?p=5957](https://codex.buddypress.org/?p=5957) | 2013/07/16
 6809 |  — Playing with the user’s ID in different contexts | [https://codex.buddypress.org/?p=6809](https://codex.buddypress.org/?p=6809) | 2013/11/23
 761 |  — The $bp Global | [https://codex.buddypress.org/?p=761](https://codex.buddypress.org/?p=761) | 2009/05/05
 1032 |  — Deprecated | [https://codex.buddypress.org/?p=1032](https://codex.buddypress.org/?p=1032) | 2009/09/02
