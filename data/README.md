@@ -10,7 +10,7 @@ Page ID | Title | Link | Published on
 16230 |  BuddyPress commit access | [https://codex.buddypress.org/?p=16230](https://codex.buddypress.org/?p=16230) | 2016/11/10
 16300 |  BuddyPress Release Leads and Deputies | [https://codex.buddypress.org/?p=16300](https://codex.buddypress.org/?p=16300) | 2016/11/29
 338 |  Core | [https://codex.buddypress.org/?p=338](https://codex.buddypress.org/?p=338) | 2009/01/20
-7722 |  Prelaunch Checklist | [https://codex.buddypress.org/?p=7722](https://codex.buddypress.org/?p=7722) | 2014/04/04
+♻️ 7722 |  Prelaunch Checklist | [https://codex.buddypress.org/?p=7722](https://codex.buddypress.org/?p=7722) | 2014/04/04
 7465 |  Site Etiquette | [https://codex.buddypress.org/?p=7465](https://codex.buddypress.org/?p=7465) | 2014/02/20
 2942 |  Template  Pack for Theme Compatibility (v1.2) | [https://codex.buddypress.org/?p=2942](https://codex.buddypress.org/?p=2942) | 2011/10/03
 3018 |  Template Pack Walkthrough – Twenty Ten | [https://codex.buddypress.org/?p=3018](https://codex.buddypress.org/?p=3018) | 2011/10/09
@@ -25,7 +25,7 @@ Page ID | Title | Link | Published on
 1616 |  BuddyPress Codex | [https://codex.buddypress.org/?p=1616](https://codex.buddypress.org/?p=1616) | 2010/05/01
 5761 |  BuddyPress Components and Features | [https://codex.buddypress.org/?p=5761](https://codex.buddypress.org/?p=5761) | 2013/05/17
 6626 |  — WordPress Blogs | [https://codex.buddypress.org/?p=6626](https://codex.buddypress.org/?p=6626) | 2013/12/11
-6255 |  Getting Started | [https://codex.buddypress.org/?p=6255](https://codex.buddypress.org/?p=6255) | 2013/10/03
+♻️ 6255 |  Getting Started | [https://codex.buddypress.org/?p=6255](https://codex.buddypress.org/?p=6255) | 2013/10/03
 16129 |  — BuddyPress 2.8 requires PHP 5.3+ | [https://codex.buddypress.org/?p=16129](https://codex.buddypress.org/?p=16129) | 2016/10/03
 16555 |  — BuddyPress Case Studies | [https://codex.buddypress.org/?p=16555](https://codex.buddypress.org/?p=16555) | 2017/05/16
 16051 |  — PHP version support | [https://codex.buddypress.org/?p=16051](https://codex.buddypress.org/?p=16051) | 2016/07/21
