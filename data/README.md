@@ -126,7 +126,7 @@ Page ID | Title | Link | Published on
 7075 |  — — Twenty Thirteen Theme | [https://codex.buddypress.org/?p=7075](https://codex.buddypress.org/?p=7075) | 2013/12/05
 16401 |  — — Twenty Seventeen Theme | [https://codex.buddypress.org/?p=16401](https://codex.buddypress.org/?p=16401) | 2017/02/09
 2161 |  — functions.php | [https://codex.buddypress.org/?p=2161](https://codex.buddypress.org/?p=2161) | 2010/10/12
-♻️ 5641 |  — BuddyPress Widgets | [https://codex.buddypress.org/?p=5641](https://codex.buddypress.org/?p=5641) | 2013/05/07
+🛑 5641 |  — BuddyPress Widgets | [https://codex.buddypress.org/?p=5641](https://codex.buddypress.org/?p=5641) | 2013/05/07
 14455 |  — Activity dropdown filters in templates | [https://codex.buddypress.org/?p=14455](https://codex.buddypress.org/?p=14455) | 2014/12/01
 6727 |  — BP Default Theme – moving forward with BP 1.9 | [https://codex.buddypress.org/?p=6727](https://codex.buddypress.org/?p=6727) | 2013/11/14
 5579 |  — Members Navigation Menus | [https://codex.buddypress.org/?p=5579](https://codex.buddypress.org/?p=5579) | 2013/04/24
