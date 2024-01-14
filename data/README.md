@@ -73,7 +73,7 @@ Page ID | Title | Link | Published on
 5647 |  — Messages | [https://codex.buddypress.org/?p=5647](https://codex.buddypress.org/?p=5647) | 2013/05/07
 7846 |  — Manage User Signups | [https://codex.buddypress.org/?p=7846](https://codex.buddypress.org/?p=7846) | 2014/04/16
 7866 |  — Mark as Spam Admin Screen | [https://codex.buddypress.org/?p=7866](https://codex.buddypress.org/?p=7866) | 2014/04/16
-5654 |  — User Extended Profiles | [https://codex.buddypress.org/?p=5654](https://codex.buddypress.org/?p=5654) | 2013/05/07
+♻️ 5654 |  — User Extended Profiles | [https://codex.buddypress.org/?p=5654](https://codex.buddypress.org/?p=5654) | 2013/05/07
 7838 |  — Edit User Profiles Admin Screen | [https://codex.buddypress.org/?p=7838](https://codex.buddypress.org/?p=7838) | 2014/04/16
 7825 |  — Notifications | [https://codex.buddypress.org/?p=7825](https://codex.buddypress.org/?p=7825) | 2014/04/16
 5671 |  — Activity Streams | [https://codex.buddypress.org/?p=5671](https://codex.buddypress.org/?p=5671) | 2013/05/07
@@ -235,7 +235,7 @@ Page ID | Title | Link | Published on
 15732 |  — Email Tokens | [https://codex.buddypress.org/?p=15732](https://codex.buddypress.org/?p=15732) | 2016/01/25
 16877 |  — Filter Emails | [https://codex.buddypress.org/?p=16877](https://codex.buddypress.org/?p=16877) | 2019/04/27
 7159 |  Mobile | [https://codex.buddypress.org/?p=7159](https://codex.buddypress.org/?p=7159) | 2013/12/14
-1249 |  Official Logos and Typeface | [https://codex.buddypress.org/?p=1249](https://codex.buddypress.org/?p=1249) | 2009/12/07
+♻️ 1249 |  Official Logos and Typeface | [https://codex.buddypress.org/?p=1249](https://codex.buddypress.org/?p=1249) | 2009/12/07
 2262 |  Template Pack Walkthrough – Easy Level | [https://codex.buddypress.org/?p=2262](https://codex.buddypress.org/?p=2262) | 2010/10/13
 2958 |  Template Pack Walkthrough – Twenty Eleven | [https://codex.buddypress.org/?p=2958](https://codex.buddypress.org/?p=2958) | 2011/10/04
 4479 |  Legacy Docs | [https://codex.buddypress.org/?p=4479](https://codex.buddypress.org/?p=4479) | 2012/12/01
