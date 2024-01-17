@@ -12,9 +12,9 @@ Page ID | Title | Link | Published on
 338 |  Core | [https://codex.buddypress.org/?p=338](https://codex.buddypress.org/?p=338) | 2009/01/20
 ♻️ 7722 |  Prelaunch Checklist | [https://codex.buddypress.org/?p=7722](https://codex.buddypress.org/?p=7722) | 2014/04/04
 7465 |  Site Etiquette | [https://codex.buddypress.org/?p=7465](https://codex.buddypress.org/?p=7465) | 2014/02/20
-2942 |  Template  Pack for Theme Compatibility (v1.2) | [https://codex.buddypress.org/?p=2942](https://codex.buddypress.org/?p=2942) | 2011/10/03
-3018 |  Template Pack Walkthrough – Twenty Ten | [https://codex.buddypress.org/?p=3018](https://codex.buddypress.org/?p=3018) | 2011/10/09
-4979 |  Template Pack Walkthrough – Twenty Twelve | [https://codex.buddypress.org/?p=4979](https://codex.buddypress.org/?p=4979) | 2013/01/12
+🛑 2942 |  Template  Pack for Theme Compatibility (v1.2) | [https://codex.buddypress.org/?p=2942](https://codex.buddypress.org/?p=2942) | 2011/10/03
+🛑 3018 |  Template Pack Walkthrough – Twenty Ten | [https://codex.buddypress.org/?p=3018](https://codex.buddypress.org/?p=3018) | 2011/10/09
+🛑 4979 |  Template Pack Walkthrough – Twenty Twelve | [https://codex.buddypress.org/?p=4979](https://codex.buddypress.org/?p=4979) | 2013/01/12
 15583 |  Using BuddyPress Cover Images inside the Member and Group Loops | [https://codex.buddypress.org/?p=15583](https://codex.buddypress.org/?p=15583) | 2015/11/16
 344 |  Blogs | [https://codex.buddypress.org/?p=344](https://codex.buddypress.org/?p=344) | 2009/01/20
 346 |  Forums | [https://codex.buddypress.org/?p=346](https://codex.buddypress.org/?p=346) | 2009/01/20
