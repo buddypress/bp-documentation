@@ -16,12 +16,12 @@ Page ID | Title | Link | Published on
 🛑 3018 |  Template Pack Walkthrough – Twenty Ten | [https://codex.buddypress.org/?p=3018](https://codex.buddypress.org/?p=3018) | 2011/10/09
 🛑 4979 |  Template Pack Walkthrough – Twenty Twelve | [https://codex.buddypress.org/?p=4979](https://codex.buddypress.org/?p=4979) | 2013/01/12
 15583 |  Using BuddyPress Cover Images inside the Member and Group Loops | [https://codex.buddypress.org/?p=15583](https://codex.buddypress.org/?p=15583) | 2015/11/16
-344 |  Blogs | [https://codex.buddypress.org/?p=344](https://codex.buddypress.org/?p=344) | 2009/01/20
-346 |  Forums | [https://codex.buddypress.org/?p=346](https://codex.buddypress.org/?p=346) | 2009/01/20
-348 |  Friends | [https://codex.buddypress.org/?p=348](https://codex.buddypress.org/?p=348) | 2009/01/20
-350 |  Groups | [https://codex.buddypress.org/?p=350](https://codex.buddypress.org/?p=350) | 2009/01/20
-368 |  Private Messaging | [https://codex.buddypress.org/?p=368](https://codex.buddypress.org/?p=368) | 2009/01/20
-355 |  Extended Profiles | [https://codex.buddypress.org/?p=355](https://codex.buddypress.org/?p=355) | 2009/01/20
+🛑 344 |  Blogs | [https://codex.buddypress.org/?p=344](https://codex.buddypress.org/?p=344) | 2009/01/20
+🛑 346 |  Forums | [https://codex.buddypress.org/?p=346](https://codex.buddypress.org/?p=346) | 2009/01/20
+🛑 348 |  Friends | [https://codex.buddypress.org/?p=348](https://codex.buddypress.org/?p=348) | 2009/01/20
+🛑 350 |  Groups | [https://codex.buddypress.org/?p=350](https://codex.buddypress.org/?p=350) | 2009/01/20
+🛑 368 |  Private Messaging | [https://codex.buddypress.org/?p=368](https://codex.buddypress.org/?p=368) | 2009/01/20
+🛑 355 |  Extended Profiles | [https://codex.buddypress.org/?p=355](https://codex.buddypress.org/?p=355) | 2009/01/20
 1616 |  BuddyPress Codex | [https://codex.buddypress.org/?p=1616](https://codex.buddypress.org/?p=1616) | 2010/05/01
 5761 |  BuddyPress Components and Features | [https://codex.buddypress.org/?p=5761](https://codex.buddypress.org/?p=5761) | 2013/05/17
 6626 |  — WordPress Blogs | [https://codex.buddypress.org/?p=6626](https://codex.buddypress.org/?p=6626) | 2013/12/11
