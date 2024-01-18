@@ -246,7 +246,7 @@ Page ID | Title | Link | Published on
 5002 |  — — Configuring Components (v1.6) | [https://codex.buddypress.org/?p=5002](https://codex.buddypress.org/?p=5002) | 2012/08/12
 2543 |  — — Developer and Designer Information BP 1.5 | [https://codex.buddypress.org/?p=2543](https://codex.buddypress.org/?p=2543) | 2011/08/04
 🛑 5425 |  — — Developer and Designer Information BP 1.7 | [https://codex.buddypress.org/?p=5425](https://codex.buddypress.org/?p=5425) | 2013/04/02
-29 |  — — FAQ | [https://codex.buddypress.org/?p=29](https://codex.buddypress.org/?p=29) | 2008/07/16
+🛑 29 |  — — FAQ | [https://codex.buddypress.org/?p=29](https://codex.buddypress.org/?p=29) | 2008/07/16
 1126 |  — — Forums | [https://codex.buddypress.org/?p=1126](https://codex.buddypress.org/?p=1126) | 2009/09/30
 4098 |  — — Installation Wizard | [https://codex.buddypress.org/?p=4098](https://codex.buddypress.org/?p=4098) | 2012/08/06
 3070 |  — — Installation Wizard (v1.5) | [https://codex.buddypress.org/?p=3070](https://codex.buddypress.org/?p=3070) | 2011/11/06
