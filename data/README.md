@@ -239,12 +239,12 @@ Page ID | Title | Link | Published on
 2262 |  Template Pack Walkthrough – Easy Level | [https://codex.buddypress.org/?p=2262](https://codex.buddypress.org/?p=2262) | 2010/10/13
 2958 |  Template Pack Walkthrough – Twenty Eleven | [https://codex.buddypress.org/?p=2958](https://codex.buddypress.org/?p=2958) | 2011/10/04
 4479 |  Legacy Docs | [https://codex.buddypress.org/?p=4479](https://codex.buddypress.org/?p=4479) | 2012/12/01
-14502 |  — Archived Section: Getting Started | [https://codex.buddypress.org/?p=14502](https://codex.buddypress.org/?p=14502) | 2014/12/08
-1855 |  — — Configuring Components | [https://codex.buddypress.org/?p=1855](https://codex.buddypress.org/?p=1855) | 2010/09/15
-3105 |  — — Configuring Components (v1.2) | [https://codex.buddypress.org/?p=3105](https://codex.buddypress.org/?p=3105) | 2011/11/14
-3973 |  — — Configuring Components (v1.5) | [https://codex.buddypress.org/?p=3973](https://codex.buddypress.org/?p=3973) | 2012/08/06
-5002 |  — — Configuring Components (v1.6) | [https://codex.buddypress.org/?p=5002](https://codex.buddypress.org/?p=5002) | 2012/08/12
-2543 |  — — Developer and Designer Information BP 1.5 | [https://codex.buddypress.org/?p=2543](https://codex.buddypress.org/?p=2543) | 2011/08/04
+🛑 14502 |  — Archived Section: Getting Started | [https://codex.buddypress.org/?p=14502](https://codex.buddypress.org/?p=14502) | 2014/12/08
+🛑 1855 |  — — Configuring Components | [https://codex.buddypress.org/?p=1855](https://codex.buddypress.org/?p=1855) | 2010/09/15
+🛑 3105 |  — — Configuring Components (v1.2) | [https://codex.buddypress.org/?p=3105](https://codex.buddypress.org/?p=3105) | 2011/11/14
+🛑 3973 |  — — Configuring Components (v1.5) | [https://codex.buddypress.org/?p=3973](https://codex.buddypress.org/?p=3973) | 2012/08/06
+🛑 5002 |  — — Configuring Components (v1.6) | [https://codex.buddypress.org/?p=5002](https://codex.buddypress.org/?p=5002) | 2012/08/12
+🛑 2543 |  — — Developer and Designer Information BP 1.5 | [https://codex.buddypress.org/?p=2543](https://codex.buddypress.org/?p=2543) | 2011/08/04
 🛑 5425 |  — — Developer and Designer Information BP 1.7 | [https://codex.buddypress.org/?p=5425](https://codex.buddypress.org/?p=5425) | 2013/04/02
 🛑 29 |  — — FAQ | [https://codex.buddypress.org/?p=29](https://codex.buddypress.org/?p=29) | 2008/07/16
 1126 |  — — Forums | [https://codex.buddypress.org/?p=1126](https://codex.buddypress.org/?p=1126) | 2009/09/30
