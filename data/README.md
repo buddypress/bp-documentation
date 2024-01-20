@@ -30,10 +30,10 @@ Page ID | Title | Link | Published on
 16555 |  — BuddyPress Case Studies | [https://codex.buddypress.org/?p=16555](https://codex.buddypress.org/?p=16555) | 2017/05/16
 16051 |  — PHP version support | [https://codex.buddypress.org/?p=16051](https://codex.buddypress.org/?p=16051) | 2016/07/21
 16788 |  — Version numbering | [https://codex.buddypress.org/?p=16788](https://codex.buddypress.org/?p=16788) | 2018/11/16
-15393 |  — WordPress version compatibility | [https://codex.buddypress.org/?p=15393](https://codex.buddypress.org/?p=15393) | 2015/08/06
+♻️ 15393 |  — WordPress version compatibility | [https://codex.buddypress.org/?p=15393](https://codex.buddypress.org/?p=15393) | 2015/08/06
 1079 |  — Installation | [https://codex.buddypress.org/?p=1079](https://codex.buddypress.org/?p=1079) | 2009/09/24
 8514 |  — Installation in WordPress Multisite | [https://codex.buddypress.org/?p=8514](https://codex.buddypress.org/?p=8514) | 2014/11/07
-6059 |  — Configure BuddyPress | [https://codex.buddypress.org/?p=6059](https://codex.buddypress.org/?p=6059) | 2013/04/10
+♻️ 6059 |  — Configure BuddyPress | [https://codex.buddypress.org/?p=6059](https://codex.buddypress.org/?p=6059) | 2013/04/10
 8521 |  — Configure BuddyPress for Multisite | [https://codex.buddypress.org/?p=8521](https://codex.buddypress.org/?p=8521) | 2014/11/07
 ♻️ 14822 |  — BuddyPress Links in WordPress Menus | [https://codex.buddypress.org/?p=14822](https://codex.buddypress.org/?p=14822) | 2015/03/05
 5062 |  — Installing Group and Sitewide Forums | [https://codex.buddypress.org/?p=5062](https://codex.buddypress.org/?p=5062) | 2013/01/03
@@ -71,7 +71,7 @@ Page ID | Title | Link | Published on
 ♻️ 17466 |  — Alternative Registration Workflows | [https://codex.buddypress.org/?p=17466](https://codex.buddypress.org/?p=17466) | 2021/12/15
 5680 |  — Members | [https://codex.buddypress.org/?p=5680](https://codex.buddypress.org/?p=5680) | 2013/05/07
 5647 |  — Messages | [https://codex.buddypress.org/?p=5647](https://codex.buddypress.org/?p=5647) | 2013/05/07
-7846 |  — Manage User Signups | [https://codex.buddypress.org/?p=7846](https://codex.buddypress.org/?p=7846) | 2014/04/16
+♻️ 7846 |  — Manage User Signups | [https://codex.buddypress.org/?p=7846](https://codex.buddypress.org/?p=7846) | 2014/04/16
 7866 |  — Mark as Spam Admin Screen | [https://codex.buddypress.org/?p=7866](https://codex.buddypress.org/?p=7866) | 2014/04/16
 ♻️ 5654 |  — User Extended Profiles | [https://codex.buddypress.org/?p=5654](https://codex.buddypress.org/?p=5654) | 2013/05/07
 7838 |  — Edit User Profiles Admin Screen | [https://codex.buddypress.org/?p=7838](https://codex.buddypress.org/?p=7838) | 2014/04/16
