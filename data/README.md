@@ -271,7 +271,7 @@ Page ID | Title | Link | Published on
 2525 |  — — Plugin Compatibility – BP 1.5 | [https://codex.buddypress.org/?p=2525](https://codex.buddypress.org/?p=2525) | 2011/08/03
 4642 |  — — Skeleton Component | [https://codex.buddypress.org/?p=4642](https://codex.buddypress.org/?p=4642) | 2011/12/02
 54 |  — — Creating a Custom Component | [https://codex.buddypress.org/?p=54](https://codex.buddypress.org/?p=54) | 2008/09/19
-14511 |  — Archived Section: Developer Resources | [https://codex.buddypress.org/?p=14511](https://codex.buddypress.org/?p=14511) | 2014/12/08
+🛑 14511 |  — Archived Section: Developer Resources | [https://codex.buddypress.org/?p=14511](https://codex.buddypress.org/?p=14511) | 2014/12/08
 5951 |  — — Group Extension API (legacy) | [https://codex.buddypress.org/?p=5951](https://codex.buddypress.org/?p=5951) | 2013/07/16
 2695 |  Team Forums | [https://codex.buddypress.org/?p=2695](https://codex.buddypress.org/?p=2695) | 2011/09/02
 5310 |  GSoC 2013 | [https://codex.buddypress.org/?p=5310](https://codex.buddypress.org/?p=5310) | 2013/03/18
