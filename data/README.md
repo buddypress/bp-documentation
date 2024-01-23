@@ -247,12 +247,12 @@ Page ID | Title | Link | Published on
 🛑 2543 |  — — Developer and Designer Information BP 1.5 | [https://codex.buddypress.org/?p=2543](https://codex.buddypress.org/?p=2543) | 2011/08/04
 🛑 5425 |  — — Developer and Designer Information BP 1.7 | [https://codex.buddypress.org/?p=5425](https://codex.buddypress.org/?p=5425) | 2013/04/02
 🛑 29 |  — — FAQ | [https://codex.buddypress.org/?p=29](https://codex.buddypress.org/?p=29) | 2008/07/16
-1126 |  — — Forums | [https://codex.buddypress.org/?p=1126](https://codex.buddypress.org/?p=1126) | 2009/09/30
-4098 |  — — Installation Wizard | [https://codex.buddypress.org/?p=4098](https://codex.buddypress.org/?p=4098) | 2012/08/06
-3070 |  — — Installation Wizard (v1.5) | [https://codex.buddypress.org/?p=3070](https://codex.buddypress.org/?p=3070) | 2011/11/06
-4136 |  — — Installing Group and Sitewide Forums (v1.5) | [https://codex.buddypress.org/?p=4136](https://codex.buddypress.org/?p=4136) | 2012/08/06
-3100 |  — — Installing Group and Sitewide Forums (v1.6) | [https://codex.buddypress.org/?p=3100](https://codex.buddypress.org/?p=3100) | 2012/08/14
-1290 |  — — Installing on a Secondary Blog | [https://codex.buddypress.org/?p=1290](https://codex.buddypress.org/?p=1290) | 2010/01/31
+🛑 1126 |  — — Forums | [https://codex.buddypress.org/?p=1126](https://codex.buddypress.org/?p=1126) | 2009/09/30
+🛑 4098 |  — — Installation Wizard | [https://codex.buddypress.org/?p=4098](https://codex.buddypress.org/?p=4098) | 2012/08/06
+🛑 3070 |  — — Installation Wizard (v1.5) | [https://codex.buddypress.org/?p=3070](https://codex.buddypress.org/?p=3070) | 2011/11/06
+🛑 4136 |  — — Installing Group and Sitewide Forums (v1.5) | [https://codex.buddypress.org/?p=4136](https://codex.buddypress.org/?p=4136) | 2012/08/06
+🛑 3100 |  — — Installing Group and Sitewide Forums (v1.6) | [https://codex.buddypress.org/?p=3100](https://codex.buddypress.org/?p=3100) | 2012/08/14
+🛑 1290 |  — — Installing on a Secondary Blog | [https://codex.buddypress.org/?p=1290](https://codex.buddypress.org/?p=1290) | 2010/01/31
 2336 |  — — Navigation Links Return 404 Errors | [https://codex.buddypress.org/?p=2336](https://codex.buddypress.org/?p=2336) | 2010/11/10
 952 |  — — Upgrading BuddyPress | [https://codex.buddypress.org/?p=952](https://codex.buddypress.org/?p=952) | 2009/07/15
 1755 |  — — Using an existing bbPress installation for your BuddyPress Forums | [https://codex.buddypress.org/?p=1755](https://codex.buddypress.org/?p=1755) | 2010/07/17
