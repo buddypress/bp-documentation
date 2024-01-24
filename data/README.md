@@ -1,6 +1,6 @@
 # Codex pages
 
-- ♻️ Migrate issue/task created.
+- ♻️ Migrate issue/task created.♻️
 - 🛑 Ignore issue/task created.
 
 Page ID | Title | Link | Published on
@@ -28,11 +28,11 @@ Page ID | Title | Link | Published on
 ♻️ 6255 |  Getting Started | [https://codex.buddypress.org/?p=6255](https://codex.buddypress.org/?p=6255) | 2013/10/03
 16129 |  — BuddyPress 2.8 requires PHP 5.3+ | [https://codex.buddypress.org/?p=16129](https://codex.buddypress.org/?p=16129) | 2016/10/03
 16555 |  — BuddyPress Case Studies | [https://codex.buddypress.org/?p=16555](https://codex.buddypress.org/?p=16555) | 2017/05/16
-16051 |  — PHP version support | [https://codex.buddypress.org/?p=16051](https://codex.buddypress.org/?p=16051) | 2016/07/21
-16788 |  — Version numbering | [https://codex.buddypress.org/?p=16788](https://codex.buddypress.org/?p=16788) | 2018/11/16
+♻️ 16051 |  — PHP version support | [https://codex.buddypress.org/?p=16051](https://codex.buddypress.org/?p=16051) | 2016/07/21
+♻️ 16788 |  — Version numbering | [https://codex.buddypress.org/?p=16788](https://codex.buddypress.org/?p=16788) | 2018/11/16
 ♻️ 15393 |  — WordPress version compatibility | [https://codex.buddypress.org/?p=15393](https://codex.buddypress.org/?p=15393) | 2015/08/06
-1079 |  — Installation | [https://codex.buddypress.org/?p=1079](https://codex.buddypress.org/?p=1079) | 2009/09/24
-8514 |  — Installation in WordPress Multisite | [https://codex.buddypress.org/?p=8514](https://codex.buddypress.org/?p=8514) | 2014/11/07
+♻️ 1079 |  — Installation | [https://codex.buddypress.org/?p=1079](https://codex.buddypress.org/?p=1079) | 2009/09/24
+♻️ 8514 |  — Installation in WordPress Multisite | [https://codex.buddypress.org/?p=8514](https://codex.buddypress.org/?p=8514) | 2014/11/07
 ♻️ 6059 |  — Configure BuddyPress | [https://codex.buddypress.org/?p=6059](https://codex.buddypress.org/?p=6059) | 2013/04/10
 8521 |  — Configure BuddyPress for Multisite | [https://codex.buddypress.org/?p=8521](https://codex.buddypress.org/?p=8521) | 2014/11/07
 ♻️ 14822 |  — BuddyPress Links in WordPress Menus | [https://codex.buddypress.org/?p=14822](https://codex.buddypress.org/?p=14822) | 2015/03/05
