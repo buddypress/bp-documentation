@@ -30,10 +30,11 @@ body:
       label: Handbook to migrate the page in
       description: Select the temporary GH Handbook you think the page should be migrated to.
       options:
+        - buddypress/docs (Docs root)
         - buddypress/docs/user
         - buddypress/docs/developer
         - buddypress/docs/contributor
-      default: 0
+      default: 1
     validations:
       required: true
   - type: checkboxes

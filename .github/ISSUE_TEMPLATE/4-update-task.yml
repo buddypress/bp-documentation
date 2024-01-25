@@ -1,26 +1,34 @@
-name: Add task
-description: File a task to create a new `buddypress/docs` Documentation resource.
-title: "[Add]: "
+name: Update task
+description: File a task to update an existing `buddypress/docs` Documentation resource.
+title: "[Update]: "
 projects: ["buddypress/2"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this task to add a new Documentation page to!
-  - type: textarea
-    id: what-needs-to-be-done
+        Thanks for taking the time to fill out this task to update an existing Documentation page of one of the `buddyress/docs` handbooks!
+  - type: input
+    id: ghLink
     attributes:
-      label: What needs to be done?
-      description: What this new documentation needs to explain and how?
-      placeholder: This is what needs to be done!
-      value: "Explain how this should be used!"
+      label: Link to the existing GH Documentation page.
+      description: This will be useful to identify & reach the page to update.
+      placeholder: https://github.com/buddypress/buddypress/docs/
+    validations:
+      required: true
+  - type: textarea
+    id: what-needs-to-be-updated
+    attributes:
+      label: What needs to be updated?
+      description: What are the needed changes (text, screenshots,...)?
+      placeholder: This is what needs to be updated!
+      value: "Let's update..."
     validations:
       required: true
   - type: dropdown
     id: handbook
     attributes:
-      label: Handbook to add the page in
-      description: Select the temporary GH Handbook you think the page should be added to.
+      label: Handbook of the page to update
+      description: Select the GH Handbook you think the page should be available in.
       options:
         - buddypress/docs (Docs root)
         - buddypress/docs/user
@@ -33,7 +41,7 @@ body:
     id: taskTracker
     attributes:
       label: Tasks to accomplish
-      description: This is a reminder about steps needed for this Documentation resource to be created.
+      description: This is a reminder about steps needed for this Documentation resource to be updated.
       options:
         - label: This task has been added to the "Todo" panel of the Documentation project.
           required: false
