@@ -1,6 +1,6 @@
 # Codex pages
 
-- ♻️ Migrate issue/task created.♻️
+- ♻️ Migrate issue/task created.
 - 🛑 Ignore issue/task created.
 
 Page ID | Title | Link | Published on
@@ -24,7 +24,7 @@ Page ID | Title | Link | Published on
 🛑 355 |  Extended Profiles | [https://codex.buddypress.org/?p=355](https://codex.buddypress.org/?p=355) | 2009/01/20
 1616 |  BuddyPress Codex | [https://codex.buddypress.org/?p=1616](https://codex.buddypress.org/?p=1616) | 2010/05/01
 5761 |  BuddyPress Components and Features | [https://codex.buddypress.org/?p=5761](https://codex.buddypress.org/?p=5761) | 2013/05/17
-6626 |  — WordPress Blogs | [https://codex.buddypress.org/?p=6626](https://codex.buddypress.org/?p=6626) | 2013/12/11
+♻️ 6626 |  — WordPress Blogs | [https://codex.buddypress.org/?p=6626](https://codex.buddypress.org/?p=6626) | 2013/12/11
 ♻️ 6255 |  Getting Started | [https://codex.buddypress.org/?p=6255](https://codex.buddypress.org/?p=6255) | 2013/10/03
 16129 |  — BuddyPress 2.8 requires PHP 5.3+ | [https://codex.buddypress.org/?p=16129](https://codex.buddypress.org/?p=16129) | 2016/10/03
 16555 |  — BuddyPress Case Studies | [https://codex.buddypress.org/?p=16555](https://codex.buddypress.org/?p=16555) | 2017/05/16
@@ -34,9 +34,9 @@ Page ID | Title | Link | Published on
 ♻️ 1079 |  — Installation | [https://codex.buddypress.org/?p=1079](https://codex.buddypress.org/?p=1079) | 2009/09/24
 ♻️ 8514 |  — Installation in WordPress Multisite | [https://codex.buddypress.org/?p=8514](https://codex.buddypress.org/?p=8514) | 2014/11/07
 ♻️ 6059 |  — Configure BuddyPress | [https://codex.buddypress.org/?p=6059](https://codex.buddypress.org/?p=6059) | 2013/04/10
-8521 |  — Configure BuddyPress for Multisite | [https://codex.buddypress.org/?p=8521](https://codex.buddypress.org/?p=8521) | 2014/11/07
+♻️ 8521 |  — Configure BuddyPress for Multisite | [https://codex.buddypress.org/?p=8521](https://codex.buddypress.org/?p=8521) | 2014/11/07
 ♻️ 14822 |  — BuddyPress Links in WordPress Menus | [https://codex.buddypress.org/?p=14822](https://codex.buddypress.org/?p=14822) | 2015/03/05
-5062 |  — Installing Group and Sitewide Forums | [https://codex.buddypress.org/?p=5062](https://codex.buddypress.org/?p=5062) | 2013/01/03
+♻️ 5062 |  — Installing Group and Sitewide Forums | [https://codex.buddypress.org/?p=5062](https://codex.buddypress.org/?p=5062) | 2013/01/03
 1844 |  — Customizing | [https://codex.buddypress.org/?p=1844](https://codex.buddypress.org/?p=1844) | 2010/09/15
 7915 |  — — BuddyPress in Your Language | [https://codex.buddypress.org/?p=7915](https://codex.buddypress.org/?p=7915) | 2014/04/25
 4506 |  — — Installing BuddyPress Themes | [https://codex.buddypress.org/?p=4506](https://codex.buddypress.org/?p=4506) | 2011/12/01
@@ -80,7 +80,7 @@ Page ID | Title | Link | Published on
 8557 |  — Moderate Activity Streams | [https://codex.buddypress.org/?p=8557](https://codex.buddypress.org/?p=8557) | 2014/11/09
 5700 |  — Groups | [https://codex.buddypress.org/?p=5700](https://codex.buddypress.org/?p=5700) | 2013/05/08
 1688 |  — Group Settings and Roles | [https://codex.buddypress.org/?p=1688](https://codex.buddypress.org/?p=1688) | 2010/07/12
-7863 |  — BuddyPress Repair Tools Admin Screen | [https://codex.buddypress.org/?p=7863](https://codex.buddypress.org/?p=7863) | 2014/04/16
+🛑 7863 |  — BuddyPress Repair Tools Admin Screen | [https://codex.buddypress.org/?p=7863](https://codex.buddypress.org/?p=7863) | 2014/04/16
 8544 |  Member Guide | [https://codex.buddypress.org/?p=8544](https://codex.buddypress.org/?p=8544) | 2014/11/09
 14899 |  — Registration | [https://codex.buddypress.org/?p=14899](https://codex.buddypress.org/?p=14899) | 2015/03/24
 14884 |  — Activity  →  Personal | [https://codex.buddypress.org/?p=14884](https://codex.buddypress.org/?p=14884) | 2015/03/24
