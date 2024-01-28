@@ -263,12 +263,12 @@ Page ID | Title | Link | Published on
 🛑 1859 |  — — Installing a Compatible Theme | [https://codex.buddypress.org/?p=1859](https://codex.buddypress.org/?p=1859) | 2010/09/15
 🛑 1884 |  — — The BuddyPress Default Theme | [https://codex.buddypress.org/?p=1884](https://codex.buddypress.org/?p=1884) | 2011/09/02
 🛑 4048 |  — — — BP-Default Theme Versions | [https://codex.buddypress.org/?p=4048](https://codex.buddypress.org/?p=4048) | 2012/07/22
-3082 |  — — — Building a Child Theme (Legacy) | [https://codex.buddypress.org/?p=3082](https://codex.buddypress.org/?p=3082) | 2011/11/08
-1162 |  — — — Building a Child Theme of the BP Default Theme | [https://codex.buddypress.org/?p=1162](https://codex.buddypress.org/?p=1162) | 2009/09/30
-2291 |  — — — Default Theme Changelog | [https://codex.buddypress.org/?p=2291](https://codex.buddypress.org/?p=2291) | 2010/10/22
-1127 |  — — Upgrading a 1.0 Theme to 1.1 | [https://codex.buddypress.org/?p=1127](https://codex.buddypress.org/?p=1127) | 2009/09/30
-14524 |  — Archived Section: Plugin Development | [https://codex.buddypress.org/?p=14524](https://codex.buddypress.org/?p=14524) | 2014/12/08
-2525 |  — — Plugin Compatibility – BP 1.5 | [https://codex.buddypress.org/?p=2525](https://codex.buddypress.org/?p=2525) | 2011/08/03
+🛑 3082 |  — — — Building a Child Theme (Legacy) | [https://codex.buddypress.org/?p=3082](https://codex.buddypress.org/?p=3082) | 2011/11/08
+🛑 1162 |  — — — Building a Child Theme of the BP Default Theme | [https://codex.buddypress.org/?p=1162](https://codex.buddypress.org/?p=1162) | 2009/09/30
+🛑 2291 |  — — — Default Theme Changelog | [https://codex.buddypress.org/?p=2291](https://codex.buddypress.org/?p=2291) | 2010/10/22
+🛑 1127 |  — — Upgrading a 1.0 Theme to 1.1 | [https://codex.buddypress.org/?p=1127](https://codex.buddypress.org/?p=1127) | 2009/09/30
+🛑 14524 |  — Archived Section: Plugin Development | [https://codex.buddypress.org/?p=14524](https://codex.buddypress.org/?p=14524) | 2014/12/08
+🛑 2525 |  — — Plugin Compatibility – BP 1.5 | [https://codex.buddypress.org/?p=2525](https://codex.buddypress.org/?p=2525) | 2011/08/03
 4642 |  — — Skeleton Component | [https://codex.buddypress.org/?p=4642](https://codex.buddypress.org/?p=4642) | 2011/12/02
 54 |  — — Creating a Custom Component | [https://codex.buddypress.org/?p=54](https://codex.buddypress.org/?p=54) | 2008/09/19
 🛑 14511 |  — Archived Section: Developer Resources | [https://codex.buddypress.org/?p=14511](https://codex.buddypress.org/?p=14511) | 2014/12/08
