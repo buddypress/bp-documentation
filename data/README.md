@@ -207,23 +207,23 @@ Page ID | Title | Link | Published on
 270 |  — — bp_core_add_nav_item() | [https://codex.buddypress.org/?p=270](https://codex.buddypress.org/?p=270) | 2009/01/03
 286 |  — — bp_core_add_subnav_item() | [https://codex.buddypress.org/?p=286](https://codex.buddypress.org/?p=286) | 2009/01/03
 283 |  — — bp_core_add_nav_default() | [https://codex.buddypress.org/?p=283](https://codex.buddypress.org/?p=283) | 2009/01/03
-90 |  Languages and Translations | [https://codex.buddypress.org/?p=90](https://codex.buddypress.org/?p=90) | 2012/11/07
-129 |  — Brazilian Portuguese  – Português do Brasil (pt_BR) | [https://codex.buddypress.org/?p=129](https://codex.buddypress.org/?p=129) | 2008/11/18
-566 |  — Danish – Dansk (da_DK) | [https://codex.buddypress.org/?p=566](https://codex.buddypress.org/?p=566) | 2009/04/19
-403 |  — Dutch – Nederlands (nl_NL) | [https://codex.buddypress.org/?p=403](https://codex.buddypress.org/?p=403) | 2009/02/10
-1619 |  — Finnish – Suomi (fi_FI) | [https://codex.buddypress.org/?p=1619](https://codex.buddypress.org/?p=1619) | 2010/05/02
-205 |  — French – France ( fr_FR ) | [https://codex.buddypress.org/?p=205](https://codex.buddypress.org/?p=205) | 2008/12/20
-95 |  — German – Deutsch (de_DE) | [https://codex.buddypress.org/?p=95](https://codex.buddypress.org/?p=95) | 2008/11/07
-411 |  — Indonesia – Indonesian (id_ID) | [https://codex.buddypress.org/?p=411](https://codex.buddypress.org/?p=411) | 2009/02/13
-113 |  — Italian – ITALY (it_IT) | [https://codex.buddypress.org/?p=113](https://codex.buddypress.org/?p=113) | 2008/11/09
-1446 |  — Latvian – Latviešu valod? (lv) | [https://codex.buddypress.org/?p=1446](https://codex.buddypress.org/?p=1446) | 2010/02/23
-1820 |  — Persian – Farsi (fa_IR) | [https://codex.buddypress.org/?p=1820](https://codex.buddypress.org/?p=1820) | 2010/07/23
-397 |  — Romanian – Român? (ro_RO) | [https://codex.buddypress.org/?p=397](https://codex.buddypress.org/?p=397) | 2009/02/03
-102 |  — Russian (ru_RU) | [https://codex.buddypress.org/?p=102](https://codex.buddypress.org/?p=102) | 2008/11/07
-104 |  — Simplified Chinese (zh_CN) | [https://codex.buddypress.org/?p=104](https://codex.buddypress.org/?p=104) | 2008/11/08
-150 |  — Spanish – Español Genérico (es_ES) | [https://codex.buddypress.org/?p=150](https://codex.buddypress.org/?p=150) | 2008/12/08
-884 |  — Turkish – Türkçe (tr_TR) | [https://codex.buddypress.org/?p=884](https://codex.buddypress.org/?p=884) | 2009/06/21
-756 |  — Vietnamese – Vietnam (vi) | [https://codex.buddypress.org/?p=756](https://codex.buddypress.org/?p=756) | 2009/05/05
+♻️ 90 |  Languages and Translations | [https://codex.buddypress.org/?p=90](https://codex.buddypress.org/?p=90) | 2012/11/07
+🛑 129 |  — Brazilian Portuguese  – Português do Brasil (pt_BR) | [https://codex.buddypress.org/?p=129](https://codex.buddypress.org/?p=129) | 2008/11/18
+🛑 566 |  — Danish – Dansk (da_DK) | [https://codex.buddypress.org/?p=566](https://codex.buddypress.org/?p=566) | 2009/04/19
+🛑 403 |  — Dutch – Nederlands (nl_NL) | [https://codex.buddypress.org/?p=403](https://codex.buddypress.org/?p=403) | 2009/02/10
+🛑 1619 |  — Finnish – Suomi (fi_FI) | [https://codex.buddypress.org/?p=1619](https://codex.buddypress.org/?p=1619) | 2010/05/02
+🛑 205 |  — French – France ( fr_FR ) | [https://codex.buddypress.org/?p=205](https://codex.buddypress.org/?p=205) | 2008/12/20
+🛑 95 |  — German – Deutsch (de_DE) | [https://codex.buddypress.org/?p=95](https://codex.buddypress.org/?p=95) | 2008/11/07
+🛑 411 |  — Indonesia – Indonesian (id_ID) | [https://codex.buddypress.org/?p=411](https://codex.buddypress.org/?p=411) | 2009/02/13
+🛑 113 |  — Italian – ITALY (it_IT) | [https://codex.buddypress.org/?p=113](https://codex.buddypress.org/?p=113) | 2008/11/09
+🛑 1446 |  — Latvian – Latviešu valod? (lv) | [https://codex.buddypress.org/?p=1446](https://codex.buddypress.org/?p=1446) | 2010/02/23
+🛑 1820 |  — Persian – Farsi (fa_IR) | [https://codex.buddypress.org/?p=1820](https://codex.buddypress.org/?p=1820) | 2010/07/23
+🛑 397 |  — Romanian – Român? (ro_RO) | [https://codex.buddypress.org/?p=397](https://codex.buddypress.org/?p=397) | 2009/02/03
+🛑 102 |  — Russian (ru_RU) | [https://codex.buddypress.org/?p=102](https://codex.buddypress.org/?p=102) | 2008/11/07
+🛑 104 |  — Simplified Chinese (zh_CN) | [https://codex.buddypress.org/?p=104](https://codex.buddypress.org/?p=104) | 2008/11/08
+🛑 150 |  — Spanish – Español Genérico (es_ES) | [https://codex.buddypress.org/?p=150](https://codex.buddypress.org/?p=150) | 2008/12/08
+🛑 884 |  — Turkish – Türkçe (tr_TR) | [https://codex.buddypress.org/?p=884](https://codex.buddypress.org/?p=884) | 2009/06/21
+🛑 756 |  — Vietnamese – Vietnam (vi) | [https://codex.buddypress.org/?p=756](https://codex.buddypress.org/?p=756) | 2009/05/05
 1846 |  Participate and Contribute | [https://codex.buddypress.org/?p=1846](https://codex.buddypress.org/?p=1846) | 2010/09/15
 6107 |  — Codex Standards & Guidelines | [https://codex.buddypress.org/?p=6107](https://codex.buddypress.org/?p=6107) | 2013/10/12
 ♻️ 17230 |  — Contribute with Code | [https://codex.buddypress.org/?p=17230](https://codex.buddypress.org/?p=17230) | 2020/09/06
@@ -238,7 +238,7 @@ Page ID | Title | Link | Published on
 ♻️ 1249 |  Official Logos and Typeface | [https://codex.buddypress.org/?p=1249](https://codex.buddypress.org/?p=1249) | 2009/12/07
 2262 |  Template Pack Walkthrough – Easy Level | [https://codex.buddypress.org/?p=2262](https://codex.buddypress.org/?p=2262) | 2010/10/13
 2958 |  Template Pack Walkthrough – Twenty Eleven | [https://codex.buddypress.org/?p=2958](https://codex.buddypress.org/?p=2958) | 2011/10/04
-4479 |  Legacy Docs | [https://codex.buddypress.org/?p=4479](https://codex.buddypress.org/?p=4479) | 2012/12/01
+🛑 4479 |  Legacy Docs | [https://codex.buddypress.org/?p=4479](https://codex.buddypress.org/?p=4479) | 2012/12/01
 🛑 14502 |  — Archived Section: Getting Started | [https://codex.buddypress.org/?p=14502](https://codex.buddypress.org/?p=14502) | 2014/12/08
 🛑 1855 |  — — Configuring Components | [https://codex.buddypress.org/?p=1855](https://codex.buddypress.org/?p=1855) | 2010/09/15
 🛑 3105 |  — — Configuring Components (v1.2) | [https://codex.buddypress.org/?p=3105](https://codex.buddypress.org/?p=3105) | 2011/11/14
@@ -253,8 +253,8 @@ Page ID | Title | Link | Published on
 🛑 4136 |  — — Installing Group and Sitewide Forums (v1.5) | [https://codex.buddypress.org/?p=4136](https://codex.buddypress.org/?p=4136) | 2012/08/06
 🛑 3100 |  — — Installing Group and Sitewide Forums (v1.6) | [https://codex.buddypress.org/?p=3100](https://codex.buddypress.org/?p=3100) | 2012/08/14
 🛑 1290 |  — — Installing on a Secondary Blog | [https://codex.buddypress.org/?p=1290](https://codex.buddypress.org/?p=1290) | 2010/01/31
-2336 |  — — Navigation Links Return 404 Errors | [https://codex.buddypress.org/?p=2336](https://codex.buddypress.org/?p=2336) | 2010/11/10
-952 |  — — Upgrading BuddyPress | [https://codex.buddypress.org/?p=952](https://codex.buddypress.org/?p=952) | 2009/07/15
+🛑 2336 |  — — Navigation Links Return 404 Errors | [https://codex.buddypress.org/?p=2336](https://codex.buddypress.org/?p=2336) | 2010/11/10
+🛑 952 |  — — Upgrading BuddyPress | [https://codex.buddypress.org/?p=952](https://codex.buddypress.org/?p=952) | 2009/07/15
 🛑 1755 |  — — Using an existing bbPress installation for your BuddyPress Forums | [https://codex.buddypress.org/?p=1755](https://codex.buddypress.org/?p=1755) | 2010/07/17
 🛑 4756 |  — — Using bbPress 2.2+ with BuddyPress | [https://codex.buddypress.org/?p=4756](https://codex.buddypress.org/?p=4756) | 2012/12/16
 2622 |  — — Using the Built-in WordPress Menus | [https://codex.buddypress.org/?p=2622](https://codex.buddypress.org/?p=2622) | 2011/08/18
