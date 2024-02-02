@@ -27,7 +27,7 @@ Page ID | Title | Link | Published on
 ♻️ 6626 |  — WordPress Blogs | [https://codex.buddypress.org/?p=6626](https://codex.buddypress.org/?p=6626) | 2013/12/11
 ♻️ 6255 |  Getting Started | [https://codex.buddypress.org/?p=6255](https://codex.buddypress.org/?p=6255) | 2013/10/03
 16129 |  — BuddyPress 2.8 requires PHP 5.3+ | [https://codex.buddypress.org/?p=16129](https://codex.buddypress.org/?p=16129) | 2016/10/03
-16555 |  — BuddyPress Case Studies | [https://codex.buddypress.org/?p=16555](https://codex.buddypress.org/?p=16555) | 2017/05/16
+🛑 16555 |  — BuddyPress Case Studies | [https://codex.buddypress.org/?p=16555](https://codex.buddypress.org/?p=16555) | 2017/05/16
 ♻️ 16051 |  — PHP version support | [https://codex.buddypress.org/?p=16051](https://codex.buddypress.org/?p=16051) | 2016/07/21
 ♻️ 16788 |  — Version numbering | [https://codex.buddypress.org/?p=16788](https://codex.buddypress.org/?p=16788) | 2018/11/16
 ♻️ 15393 |  — WordPress version compatibility | [https://codex.buddypress.org/?p=15393](https://codex.buddypress.org/?p=15393) | 2015/08/06
@@ -37,22 +37,22 @@ Page ID | Title | Link | Published on
 ♻️ 8521 |  — Configure BuddyPress for Multisite | [https://codex.buddypress.org/?p=8521](https://codex.buddypress.org/?p=8521) | 2014/11/07
 ♻️ 14822 |  — BuddyPress Links in WordPress Menus | [https://codex.buddypress.org/?p=14822](https://codex.buddypress.org/?p=14822) | 2015/03/05
 ♻️ 5062 |  — Installing Group and Sitewide Forums | [https://codex.buddypress.org/?p=5062](https://codex.buddypress.org/?p=5062) | 2013/01/03
-1844 |  — Customizing | [https://codex.buddypress.org/?p=1844](https://codex.buddypress.org/?p=1844) | 2010/09/15
-7915 |  — — BuddyPress in Your Language | [https://codex.buddypress.org/?p=7915](https://codex.buddypress.org/?p=7915) | 2014/04/25
+🛑 1844 |  — Customizing | [https://codex.buddypress.org/?p=1844](https://codex.buddypress.org/?p=1844) | 2010/09/15
+🛑 7915 |  — — BuddyPress in Your Language | [https://codex.buddypress.org/?p=7915](https://codex.buddypress.org/?p=7915) | 2014/04/25
 4506 |  — — Installing BuddyPress Themes | [https://codex.buddypress.org/?p=4506](https://codex.buddypress.org/?p=4506) | 2011/12/01
 1861 |  — — Installing BuddyPress Plugins | [https://codex.buddypress.org/?p=1861](https://codex.buddypress.org/?p=1861) | 2010/09/15
 3693 |  — — BP_ENABLE_MULTIBLOG | [https://codex.buddypress.org/?p=3693](https://codex.buddypress.org/?p=3693) | 2012/02/19
 1155 |  — — Changing Internal Configuration Settings | [https://codex.buddypress.org/?p=1155](https://codex.buddypress.org/?p=1155) | 2009/09/30
 524 |  — — Customizing Labels, Messages, and URLs | [https://codex.buddypress.org/?p=524](https://codex.buddypress.org/?p=524) | 2009/04/08
-7106 |  — Videos | [https://codex.buddypress.org/?p=7106](https://codex.buddypress.org/?p=7106) | 2013/12/11
+♻️ 7106 |  — Videos | [https://codex.buddypress.org/?p=7106](https://codex.buddypress.org/?p=7106) | 2013/12/11
 5110 |  — Register and Activation Pages | [https://codex.buddypress.org/?p=5110](https://codex.buddypress.org/?p=5110) | 2013/02/13
 2923 |  — Embeds | [https://codex.buddypress.org/?p=2923](https://codex.buddypress.org/?p=2923) | 2011/09/26
 194 |  — Improving Performance | [https://codex.buddypress.org/?p=194](https://codex.buddypress.org/?p=194) | 2008/12/18
-1877 |  — Importing Data | [https://codex.buddypress.org/?p=1877](https://codex.buddypress.org/?p=1877) | 2010/09/15
-1879 |  — Exporting Data | [https://codex.buddypress.org/?p=1879](https://codex.buddypress.org/?p=1879) | 2010/09/15
+🛑 1877 |  — Importing Data | [https://codex.buddypress.org/?p=1877](https://codex.buddypress.org/?p=1877) | 2010/09/15
+🛑 1879 |  — Exporting Data | [https://codex.buddypress.org/?p=1879](https://codex.buddypress.org/?p=1879) | 2010/09/15
 5300 |  — .htaccess redirects for FORCE_SSL_ADMIN | [https://codex.buddypress.org/?p=5300](https://codex.buddypress.org/?p=5300) | 2013/03/18
 1739 |  — IIS7 web.config | [https://codex.buddypress.org/?p=1739](https://codex.buddypress.org/?p=1739) | 2010/07/13
-1875 |  — Deleting BuddyPress | [https://codex.buddypress.org/?p=1875](https://codex.buddypress.org/?p=1875) | 2010/09/15
+♻️ 1875 |  — Deleting BuddyPress | [https://codex.buddypress.org/?p=1875](https://codex.buddypress.org/?p=1875) | 2010/09/15
 1706 |  — Frequently Asked Questions | [https://codex.buddypress.org/?p=1706](https://codex.buddypress.org/?p=1706) | 2010/07/12
 7480 |  — — Installing BuddyPress in a symlinked environment | [https://codex.buddypress.org/?p=7480](https://codex.buddypress.org/?p=7480) | 2014/02/26
 1869 |  — — Backing Up Your Database and Files | [https://codex.buddypress.org/?p=1869](https://codex.buddypress.org/?p=1869) | 2010/09/15
@@ -128,20 +128,20 @@ Page ID | Title | Link | Published on
 2161 |  — functions.php | [https://codex.buddypress.org/?p=2161](https://codex.buddypress.org/?p=2161) | 2010/10/12
 🛑 5641 |  — BuddyPress Widgets | [https://codex.buddypress.org/?p=5641](https://codex.buddypress.org/?p=5641) | 2013/05/07
 14455 |  — Activity dropdown filters in templates | [https://codex.buddypress.org/?p=14455](https://codex.buddypress.org/?p=14455) | 2014/12/01
-6727 |  — BP Default Theme – moving forward with BP 1.9 | [https://codex.buddypress.org/?p=6727](https://codex.buddypress.org/?p=6727) | 2013/11/14
+🛑 6727 |  — BP Default Theme – moving forward with BP 1.9 | [https://codex.buddypress.org/?p=6727](https://codex.buddypress.org/?p=6727) | 2013/11/14
 5579 |  — Members Navigation Menus | [https://codex.buddypress.org/?p=5579](https://codex.buddypress.org/?p=5579) | 2013/04/24
 14557 |  — User Submitted Guides | [https://codex.buddypress.org/?p=14557](https://codex.buddypress.org/?p=14557) | 2014/12/08
 6535 |  — — Customizing BuddyPress Avatars | [https://codex.buddypress.org/?p=6535](https://codex.buddypress.org/?p=6535) | 2013/10/31
 6525 |  — — Displaying Extended Profile Fields on Member Profiles | [https://codex.buddypress.org/?p=6525](https://codex.buddypress.org/?p=6525) | 2013/10/31
 3933 |  — — Segregated X-Profile Fields for Multisite | [https://codex.buddypress.org/?p=3933](https://codex.buddypress.org/?p=3933) | 2012/06/08
-2358 |  BuddyPress Plugin Development | [https://codex.buddypress.org/?p=2358](https://codex.buddypress.org/?p=2358) | 2010/11/10
+♻️ 2358 |  BuddyPress Plugin Development | [https://codex.buddypress.org/?p=2358](https://codex.buddypress.org/?p=2358) | 2010/11/10
 6923 |  — Add custom filters to loops and enjoy them within your plugin | [https://codex.buddypress.org/?p=6923](https://codex.buddypress.org/?p=6923) | 2013/12/03
-15039 |  — BP_Attachment | [https://codex.buddypress.org/?p=15039](https://codex.buddypress.org/?p=15039) | 2015/05/06
+♻️ 15039 |  — BP_Attachment | [https://codex.buddypress.org/?p=15039](https://codex.buddypress.org/?p=15039) | 2015/05/06
 16845 |  — Groups Admin – Add Custom Column | [https://codex.buddypress.org/?p=16845](https://codex.buddypress.org/?p=16845) | 2019/01/16
 14473 |  — Post Types Activities | [https://codex.buddypress.org/?p=14473](https://codex.buddypress.org/?p=14473) | 2014/12/04
 7988 |  — Template Overload from a Plugin | [https://codex.buddypress.org/?p=7988](https://codex.buddypress.org/?p=7988) | 2014/05/22
-4465 |  — Creating a Plugin | [https://codex.buddypress.org/?p=4465](https://codex.buddypress.org/?p=4465) | 2012/12/01
-1451 |  — Checking For BuddyPress | [https://codex.buddypress.org/?p=1451](https://codex.buddypress.org/?p=1451) | 2010/02/23
+♻️ 4465 |  — Creating a Plugin | [https://codex.buddypress.org/?p=4465](https://codex.buddypress.org/?p=4465) | 2012/12/01
+♻️ 1451 |  — Checking For BuddyPress | [https://codex.buddypress.org/?p=1451](https://codex.buddypress.org/?p=1451) | 2010/02/23
 5217 |  — Admin UI for Groups | [https://codex.buddypress.org/?p=5217](https://codex.buddypress.org/?p=5217) | 2013/03/02
 6617 |  — Group Meta Queries: Usage Example | [https://codex.buddypress.org/?p=6617](https://codex.buddypress.org/?p=6617) | 2013/11/04
 5203 |  — Posting Activity from Plugins | [https://codex.buddypress.org/?p=5203](https://codex.buddypress.org/?p=5203) | 2013/03/01
@@ -185,7 +185,7 @@ Page ID | Title | Link | Published on
 15951 |  — Group Types | [https://codex.buddypress.org/?p=15951](https://codex.buddypress.org/?p=15951) | 2016/06/15
 602 |  — Loops Reference | [https://codex.buddypress.org/?p=602](https://codex.buddypress.org/?p=602) | 2012/02/28
 604 |  — — Activity Loop | [https://codex.buddypress.org/?p=604](https://codex.buddypress.org/?p=604) | 2009/04/28
-1643 |  — — Forum Topics Loop | [https://codex.buddypress.org/?p=1643](https://codex.buddypress.org/?p=1643) | 2010/05/17
+🛑 1643 |  — — Forum Topics Loop | [https://codex.buddypress.org/?p=1643](https://codex.buddypress.org/?p=1643) | 2010/05/17
 633 |  — — Members Loop | [https://codex.buddypress.org/?p=633](https://codex.buddypress.org/?p=633) | 2009/04/28
 646 |  — — Groups Loop | [https://codex.buddypress.org/?p=646](https://codex.buddypress.org/?p=646) | 2009/04/29
 651 |  — — Blogs Loop | [https://codex.buddypress.org/?p=651](https://codex.buddypress.org/?p=651) | 2009/04/29
