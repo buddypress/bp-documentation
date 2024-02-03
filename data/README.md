@@ -119,12 +119,12 @@ Page ID | Title | Link | Published on
 14612 |  — — Template Updates 2.2 | [https://codex.buddypress.org/?p=14612](https://codex.buddypress.org/?p=14612) | 2014/12/11
 16142 |  — — Template Updates 2.7 | [https://codex.buddypress.org/?p=16142](https://codex.buddypress.org/?p=16142) | 2016/10/08
 1867 |  — bp-custom.php | [https://codex.buddypress.org/?p=1867](https://codex.buddypress.org/?p=1867) | 2010/09/15
-6980 |  — BP Theme Compatibility and the WordPress Default Themes | [https://codex.buddypress.org/?p=6980](https://codex.buddypress.org/?p=6980) | 2013/12/05
-6995 |  — — Twenty Ten Theme | [https://codex.buddypress.org/?p=6995](https://codex.buddypress.org/?p=6995) | 2013/12/06
-4517 |  — — Twenty Eleven Theme | [https://codex.buddypress.org/?p=4517](https://codex.buddypress.org/?p=4517) | 2013/12/05
-4518 |  — — Twenty Twelve Theme | [https://codex.buddypress.org/?p=4518](https://codex.buddypress.org/?p=4518) | 2013/12/05
-7075 |  — — Twenty Thirteen Theme | [https://codex.buddypress.org/?p=7075](https://codex.buddypress.org/?p=7075) | 2013/12/05
-16401 |  — — Twenty Seventeen Theme | [https://codex.buddypress.org/?p=16401](https://codex.buddypress.org/?p=16401) | 2017/02/09
+🛑 6980 |  — BP Theme Compatibility and the WordPress Default Themes | [https://codex.buddypress.org/?p=6980](https://codex.buddypress.org/?p=6980) | 2013/12/05
+🛑 6995 |  — — Twenty Ten Theme | [https://codex.buddypress.org/?p=6995](https://codex.buddypress.org/?p=6995) | 2013/12/06
+🛑 4517 |  — — Twenty Eleven Theme | [https://codex.buddypress.org/?p=4517](https://codex.buddypress.org/?p=4517) | 2013/12/05
+🛑 4518 |  — — Twenty Twelve Theme | [https://codex.buddypress.org/?p=4518](https://codex.buddypress.org/?p=4518) | 2013/12/05
+🛑 7075 |  — — Twenty Thirteen Theme | [https://codex.buddypress.org/?p=7075](https://codex.buddypress.org/?p=7075) | 2013/12/05
+🛑 16401 |  — — Twenty Seventeen Theme | [https://codex.buddypress.org/?p=16401](https://codex.buddypress.org/?p=16401) | 2017/02/09
 2161 |  — functions.php | [https://codex.buddypress.org/?p=2161](https://codex.buddypress.org/?p=2161) | 2010/10/12
 🛑 5641 |  — BuddyPress Widgets | [https://codex.buddypress.org/?p=5641](https://codex.buddypress.org/?p=5641) | 2013/05/07
 14455 |  — Activity dropdown filters in templates | [https://codex.buddypress.org/?p=14455](https://codex.buddypress.org/?p=14455) | 2014/12/01
