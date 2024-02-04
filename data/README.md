@@ -5,10 +5,10 @@
 
 Page ID | Title | Link | Published on
 --- | --- | --- | ---
-15958 |  Activity Embeds | [https://codex.buddypress.org/?p=15958](https://codex.buddypress.org/?p=15958) | 2016/06/15
-15885 |  Add Custom Tab to Groups Directory | [https://codex.buddypress.org/?p=15885](https://codex.buddypress.org/?p=15885) | 2016/05/03
-16230 |  BuddyPress commit access | [https://codex.buddypress.org/?p=16230](https://codex.buddypress.org/?p=16230) | 2016/11/10
-16300 |  BuddyPress Release Leads and Deputies | [https://codex.buddypress.org/?p=16300](https://codex.buddypress.org/?p=16300) | 2016/11/29
+♻️ 15958 |  Activity Embeds | [https://codex.buddypress.org/?p=15958](https://codex.buddypress.org/?p=15958) | 2016/06/15
+🛑 15885 |  Add Custom Tab to Groups Directory | [https://codex.buddypress.org/?p=15885](https://codex.buddypress.org/?p=15885) | 2016/05/03
+♻️ 16230 |  BuddyPress commit access | [https://codex.buddypress.org/?p=16230](https://codex.buddypress.org/?p=16230) | 2016/11/10
+♻️ 16300 |  BuddyPress Release Leads and Deputies | [https://codex.buddypress.org/?p=16300](https://codex.buddypress.org/?p=16300) | 2016/11/29
 🛑 338 |  Core | [https://codex.buddypress.org/?p=338](https://codex.buddypress.org/?p=338) | 2009/01/20
 ♻️ 7722 |  Prelaunch Checklist | [https://codex.buddypress.org/?p=7722](https://codex.buddypress.org/?p=7722) | 2014/04/04
 ♻️ 7465 |  Site Etiquette | [https://codex.buddypress.org/?p=7465](https://codex.buddypress.org/?p=7465) | 2014/02/20
@@ -23,7 +23,7 @@ Page ID | Title | Link | Published on
 🛑 368 |  Private Messaging | [https://codex.buddypress.org/?p=368](https://codex.buddypress.org/?p=368) | 2009/01/20
 🛑 355 |  Extended Profiles | [https://codex.buddypress.org/?p=355](https://codex.buddypress.org/?p=355) | 2009/01/20
 1616 |  BuddyPress Codex | [https://codex.buddypress.org/?p=1616](https://codex.buddypress.org/?p=1616) | 2010/05/01
-5761 |  BuddyPress Components and Features | [https://codex.buddypress.org/?p=5761](https://codex.buddypress.org/?p=5761) | 2013/05/17
+♻️ 5761 |  BuddyPress Components and Features | [https://codex.buddypress.org/?p=5761](https://codex.buddypress.org/?p=5761) | 2013/05/17
 ♻️ 6626 |  — WordPress Blogs | [https://codex.buddypress.org/?p=6626](https://codex.buddypress.org/?p=6626) | 2013/12/11
 ♻️ 6255 |  Getting Started | [https://codex.buddypress.org/?p=6255](https://codex.buddypress.org/?p=6255) | 2013/10/03
 16129 |  — BuddyPress 2.8 requires PHP 5.3+ | [https://codex.buddypress.org/?p=16129](https://codex.buddypress.org/?p=16129) | 2016/10/03
@@ -39,8 +39,8 @@ Page ID | Title | Link | Published on
 ♻️ 5062 |  — Installing Group and Sitewide Forums | [https://codex.buddypress.org/?p=5062](https://codex.buddypress.org/?p=5062) | 2013/01/03
 🛑 1844 |  — Customizing | [https://codex.buddypress.org/?p=1844](https://codex.buddypress.org/?p=1844) | 2010/09/15
 🛑 7915 |  — — BuddyPress in Your Language | [https://codex.buddypress.org/?p=7915](https://codex.buddypress.org/?p=7915) | 2014/04/25
-4506 |  — — Installing BuddyPress Themes | [https://codex.buddypress.org/?p=4506](https://codex.buddypress.org/?p=4506) | 2011/12/01
-1861 |  — — Installing BuddyPress Plugins | [https://codex.buddypress.org/?p=1861](https://codex.buddypress.org/?p=1861) | 2010/09/15
+🛑 4506 |  — — Installing BuddyPress Themes | [https://codex.buddypress.org/?p=4506](https://codex.buddypress.org/?p=4506) | 2011/12/01
+🛑 1861 |  — — Installing BuddyPress Plugins | [https://codex.buddypress.org/?p=1861](https://codex.buddypress.org/?p=1861) | 2010/09/15
 3693 |  — — BP_ENABLE_MULTIBLOG | [https://codex.buddypress.org/?p=3693](https://codex.buddypress.org/?p=3693) | 2012/02/19
 1155 |  — — Changing Internal Configuration Settings | [https://codex.buddypress.org/?p=1155](https://codex.buddypress.org/?p=1155) | 2009/09/30
 524 |  — — Customizing Labels, Messages, and URLs | [https://codex.buddypress.org/?p=524](https://codex.buddypress.org/?p=524) | 2009/04/08
