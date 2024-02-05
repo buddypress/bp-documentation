@@ -53,12 +53,12 @@ Page ID | Title | Link | Published on
 5300 |  — .htaccess redirects for FORCE_SSL_ADMIN | [https://codex.buddypress.org/?p=5300](https://codex.buddypress.org/?p=5300) | 2013/03/18
 1739 |  — IIS7 web.config | [https://codex.buddypress.org/?p=1739](https://codex.buddypress.org/?p=1739) | 2010/07/13
 ♻️ 1875 |  — Deleting BuddyPress | [https://codex.buddypress.org/?p=1875](https://codex.buddypress.org/?p=1875) | 2010/09/15
-1706 |  — Frequently Asked Questions | [https://codex.buddypress.org/?p=1706](https://codex.buddypress.org/?p=1706) | 2010/07/12
-7480 |  — — Installing BuddyPress in a symlinked environment | [https://codex.buddypress.org/?p=7480](https://codex.buddypress.org/?p=7480) | 2014/02/26
-1869 |  — — Backing Up Your Database and Files | [https://codex.buddypress.org/?p=1869](https://codex.buddypress.org/?p=1869) | 2010/09/15
-2163 |  — Troubleshooting | [https://codex.buddypress.org/?p=2163](https://codex.buddypress.org/?p=2163) | 2010/10/12
-2343 |  — — Blank Pages | [https://codex.buddypress.org/?p=2343](https://codex.buddypress.org/?p=2343) | 2010/11/10
-2350 |  — — Avatar upload fails | [https://codex.buddypress.org/?p=2350](https://codex.buddypress.org/?p=2350) | 2010/11/10
+♻️ 1706 |  — Frequently Asked Questions | [https://codex.buddypress.org/?p=1706](https://codex.buddypress.org/?p=1706) | 2010/07/12
+♻️ 7480 |  — — Installing BuddyPress in a symlinked environment | [https://codex.buddypress.org/?p=7480](https://codex.buddypress.org/?p=7480) | 2014/02/26
+♻️ 1869 |  — — Backing Up Your Database and Files | [https://codex.buddypress.org/?p=1869](https://codex.buddypress.org/?p=1869) | 2010/09/15
+♻️ 2163 |  — Troubleshooting | [https://codex.buddypress.org/?p=2163](https://codex.buddypress.org/?p=2163) | 2010/10/12
+♻️ 2343 |  — — Blank Pages | [https://codex.buddypress.org/?p=2343](https://codex.buddypress.org/?p=2343) | 2010/11/10
+♻️ 2350 |  — — Avatar upload fails | [https://codex.buddypress.org/?p=2350](https://codex.buddypress.org/?p=2350) | 2010/11/10
 6260 |  — User Submitted Guides | [https://codex.buddypress.org/?p=6260](https://codex.buddypress.org/?p=6260) | 2013/10/03
 16722 |  — — A « Nouveau » Group Invites User Interface | [https://codex.buddypress.org/?p=16722](https://codex.buddypress.org/?p=16722) | 2018/05/27
 6828 |  — — Change Default Members Profile Landing Tab | [https://codex.buddypress.org/?p=6828](https://codex.buddypress.org/?p=6828) | 2013/11/27
