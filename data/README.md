@@ -59,14 +59,14 @@ Page ID | Title | Link | Published on
 ♻️ 2163 |  — Troubleshooting | [https://codex.buddypress.org/?p=2163](https://codex.buddypress.org/?p=2163) | 2010/10/12
 ♻️ 2343 |  — — Blank Pages | [https://codex.buddypress.org/?p=2343](https://codex.buddypress.org/?p=2343) | 2010/11/10
 ♻️ 2350 |  — — Avatar upload fails | [https://codex.buddypress.org/?p=2350](https://codex.buddypress.org/?p=2350) | 2010/11/10
-6260 |  — User Submitted Guides | [https://codex.buddypress.org/?p=6260](https://codex.buddypress.org/?p=6260) | 2013/10/03
-16722 |  — — A « Nouveau » Group Invites User Interface | [https://codex.buddypress.org/?p=16722](https://codex.buddypress.org/?p=16722) | 2018/05/27
-6828 |  — — Change Default Members Profile Landing Tab | [https://codex.buddypress.org/?p=6828](https://codex.buddypress.org/?p=6828) | 2013/11/27
-8376 |  — — Deprecated Guides | [https://codex.buddypress.org/?p=8376](https://codex.buddypress.org/?p=8376) | 2014/10/02
-542 |  — — — Modifying the Toolbar | [https://codex.buddypress.org/?p=542](https://codex.buddypress.org/?p=542) | 2009/04/16
-6504 |  — — Modifying the Registration Form | [https://codex.buddypress.org/?p=6504](https://codex.buddypress.org/?p=6504) | 2013/10/31
+🛑 6260 |  — User Submitted Guides | [https://codex.buddypress.org/?p=6260](https://codex.buddypress.org/?p=6260) | 2013/10/03
+♻️ 16722 |  — — A « Nouveau » Group Invites User Interface | [https://codex.buddypress.org/?p=16722](https://codex.buddypress.org/?p=16722) | 2018/05/27
+🛑 6828 |  — — Change Default Members Profile Landing Tab | [https://codex.buddypress.org/?p=6828](https://codex.buddypress.org/?p=6828) | 2013/11/27
+🛑 8376 |  — — Deprecated Guides | [https://codex.buddypress.org/?p=8376](https://codex.buddypress.org/?p=8376) | 2014/10/02
+🛑 542 |  — — — Modifying the Toolbar | [https://codex.buddypress.org/?p=542](https://codex.buddypress.org/?p=542) | 2009/04/16
+🛑 6504 |  — — Modifying the Registration Form | [https://codex.buddypress.org/?p=6504](https://codex.buddypress.org/?p=6504) | 2013/10/31
 6533 |  — — Preventing Spammer Registration | [https://codex.buddypress.org/?p=6533](https://codex.buddypress.org/?p=6533) | 2013/10/31
-4408 |  — — Migrating from old forums to bbPress 2.2+ | [https://codex.buddypress.org/?p=4408](https://codex.buddypress.org/?p=4408) | 2012/11/22
+🛑 4408 |  — — Migrating from old forums to bbPress 2.2+ | [https://codex.buddypress.org/?p=4408](https://codex.buddypress.org/?p=4408) | 2012/11/22
 8542 |  Administrator Guide | [https://codex.buddypress.org/?p=8542](https://codex.buddypress.org/?p=8542) | 2014/11/09
 ♻️ 17466 |  — Alternative Registration Workflows | [https://codex.buddypress.org/?p=17466](https://codex.buddypress.org/?p=17466) | 2021/12/15
 5680 |  — Members | [https://codex.buddypress.org/?p=5680](https://codex.buddypress.org/?p=5680) | 2013/05/07
@@ -163,7 +163,7 @@ Page ID | Title | Link | Published on
 7566 |  — BuddyPress Action Hook Sequence During Startup | [https://codex.buddypress.org/?p=7566](https://codex.buddypress.org/?p=7566) | 2014/03/11
 6650 |  — BuddyPress Database Diagram | [https://codex.buddypress.org/?p=6650](https://codex.buddypress.org/?p=6650) | 2013/11/09
 5176 |  — Checking for Active Components in Plugins or Themes | [https://codex.buddypress.org/?p=5176](https://codex.buddypress.org/?p=5176) | 2013/02/22
-6117 |  — Filters & Constants Reference | [https://codex.buddypress.org/?p=6117](https://codex.buddypress.org/?p=6117) | 2013/08/18
+♻️ 6117 |  — Filters & Constants Reference | [https://codex.buddypress.org/?p=6117](https://codex.buddypress.org/?p=6117) | 2013/08/18
 5193 |  — — bp_get_template_part Filter | [https://codex.buddypress.org/?p=5193](https://codex.buddypress.org/?p=5193) | 2013/02/28
 6081 |  — Function Examples | [https://codex.buddypress.org/?p=6081](https://codex.buddypress.org/?p=6081) | 2013/08/10
 5910 |  — — bp_activity_action_spam_activity() | [https://codex.buddypress.org/?p=5910](https://codex.buddypress.org/?p=5910) | 2013/06/28
