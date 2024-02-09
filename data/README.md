@@ -26,7 +26,7 @@ Page ID | Title | Link | Published on
 ♻️ 5761 |  BuddyPress Components and Features | [https://codex.buddypress.org/?p=5761](https://codex.buddypress.org/?p=5761) | 2013/05/17
 ♻️ 6626 |  — WordPress Blogs | [https://codex.buddypress.org/?p=6626](https://codex.buddypress.org/?p=6626) | 2013/12/11
 ♻️ 6255 |  Getting Started | [https://codex.buddypress.org/?p=6255](https://codex.buddypress.org/?p=6255) | 2013/10/03
-16129 |  — BuddyPress 2.8 requires PHP 5.3+ | [https://codex.buddypress.org/?p=16129](https://codex.buddypress.org/?p=16129) | 2016/10/03
+🛑 16129 |  — BuddyPress 2.8 requires PHP 5.3+ | [https://codex.buddypress.org/?p=16129](https://codex.buddypress.org/?p=16129) | 2016/10/03
 🛑 16555 |  — BuddyPress Case Studies | [https://codex.buddypress.org/?p=16555](https://codex.buddypress.org/?p=16555) | 2017/05/16
 ♻️ 16051 |  — PHP version support | [https://codex.buddypress.org/?p=16051](https://codex.buddypress.org/?p=16051) | 2016/07/21
 ♻️ 16788 |  — Version numbering | [https://codex.buddypress.org/?p=16788](https://codex.buddypress.org/?p=16788) | 2018/11/16
@@ -41,17 +41,17 @@ Page ID | Title | Link | Published on
 🛑 7915 |  — — BuddyPress in Your Language | [https://codex.buddypress.org/?p=7915](https://codex.buddypress.org/?p=7915) | 2014/04/25
 🛑 4506 |  — — Installing BuddyPress Themes | [https://codex.buddypress.org/?p=4506](https://codex.buddypress.org/?p=4506) | 2011/12/01
 🛑 1861 |  — — Installing BuddyPress Plugins | [https://codex.buddypress.org/?p=1861](https://codex.buddypress.org/?p=1861) | 2010/09/15
-3693 |  — — BP_ENABLE_MULTIBLOG | [https://codex.buddypress.org/?p=3693](https://codex.buddypress.org/?p=3693) | 2012/02/19
-1155 |  — — Changing Internal Configuration Settings | [https://codex.buddypress.org/?p=1155](https://codex.buddypress.org/?p=1155) | 2009/09/30
-524 |  — — Customizing Labels, Messages, and URLs | [https://codex.buddypress.org/?p=524](https://codex.buddypress.org/?p=524) | 2009/04/08
+🛑 3693 |  — — BP_ENABLE_MULTIBLOG | [https://codex.buddypress.org/?p=3693](https://codex.buddypress.org/?p=3693) | 2012/02/19
+🛑 1155 |  — — Changing Internal Configuration Settings | [https://codex.buddypress.org/?p=1155](https://codex.buddypress.org/?p=1155) | 2009/09/30
+♻️ 524 |  — — Customizing Labels, Messages, and URLs | [https://codex.buddypress.org/?p=524](https://codex.buddypress.org/?p=524) | 2009/04/08
 ♻️ 7106 |  — Videos | [https://codex.buddypress.org/?p=7106](https://codex.buddypress.org/?p=7106) | 2013/12/11
 5110 |  — Register and Activation Pages | [https://codex.buddypress.org/?p=5110](https://codex.buddypress.org/?p=5110) | 2013/02/13
-2923 |  — Embeds | [https://codex.buddypress.org/?p=2923](https://codex.buddypress.org/?p=2923) | 2011/09/26
-194 |  — Improving Performance | [https://codex.buddypress.org/?p=194](https://codex.buddypress.org/?p=194) | 2008/12/18
+🛑 2923 |  — Embeds | [https://codex.buddypress.org/?p=2923](https://codex.buddypress.org/?p=2923) | 2011/09/26
+🛑 194 |  — Improving Performance | [https://codex.buddypress.org/?p=194](https://codex.buddypress.org/?p=194) | 2008/12/18
 🛑 1877 |  — Importing Data | [https://codex.buddypress.org/?p=1877](https://codex.buddypress.org/?p=1877) | 2010/09/15
 🛑 1879 |  — Exporting Data | [https://codex.buddypress.org/?p=1879](https://codex.buddypress.org/?p=1879) | 2010/09/15
-5300 |  — .htaccess redirects for FORCE_SSL_ADMIN | [https://codex.buddypress.org/?p=5300](https://codex.buddypress.org/?p=5300) | 2013/03/18
-1739 |  — IIS7 web.config | [https://codex.buddypress.org/?p=1739](https://codex.buddypress.org/?p=1739) | 2010/07/13
+🛑 5300 |  — .htaccess redirects for FORCE_SSL_ADMIN | [https://codex.buddypress.org/?p=5300](https://codex.buddypress.org/?p=5300) | 2013/03/18
+🛑 1739 |  — IIS7 web.config | [https://codex.buddypress.org/?p=1739](https://codex.buddypress.org/?p=1739) | 2010/07/13
 ♻️ 1875 |  — Deleting BuddyPress | [https://codex.buddypress.org/?p=1875](https://codex.buddypress.org/?p=1875) | 2010/09/15
 ♻️ 1706 |  — Frequently Asked Questions | [https://codex.buddypress.org/?p=1706](https://codex.buddypress.org/?p=1706) | 2010/07/12
 ♻️ 7480 |  — — Installing BuddyPress in a symlinked environment | [https://codex.buddypress.org/?p=7480](https://codex.buddypress.org/?p=7480) | 2014/02/26
