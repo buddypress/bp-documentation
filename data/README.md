@@ -130,10 +130,10 @@ Page ID | Title | Link | Published on
 14455 |  — Activity dropdown filters in templates | [https://codex.buddypress.org/?p=14455](https://codex.buddypress.org/?p=14455) | 2014/12/01
 🛑 6727 |  — BP Default Theme – moving forward with BP 1.9 | [https://codex.buddypress.org/?p=6727](https://codex.buddypress.org/?p=6727) | 2013/11/14
 5579 |  — Members Navigation Menus | [https://codex.buddypress.org/?p=5579](https://codex.buddypress.org/?p=5579) | 2013/04/24
-14557 |  — User Submitted Guides | [https://codex.buddypress.org/?p=14557](https://codex.buddypress.org/?p=14557) | 2014/12/08
-6535 |  — — Customizing BuddyPress Avatars | [https://codex.buddypress.org/?p=6535](https://codex.buddypress.org/?p=6535) | 2013/10/31
-6525 |  — — Displaying Extended Profile Fields on Member Profiles | [https://codex.buddypress.org/?p=6525](https://codex.buddypress.org/?p=6525) | 2013/10/31
-3933 |  — — Segregated X-Profile Fields for Multisite | [https://codex.buddypress.org/?p=3933](https://codex.buddypress.org/?p=3933) | 2012/06/08
+🛑 14557 |  — User Submitted Guides | [https://codex.buddypress.org/?p=14557](https://codex.buddypress.org/?p=14557) | 2014/12/08
+🛑 6535 |  — — Customizing BuddyPress Avatars | [https://codex.buddypress.org/?p=6535](https://codex.buddypress.org/?p=6535) | 2013/10/31
+🛑 6525 |  — — Displaying Extended Profile Fields on Member Profiles | [https://codex.buddypress.org/?p=6525](https://codex.buddypress.org/?p=6525) | 2013/10/31
+🛑 3933 |  — — Segregated X-Profile Fields for Multisite | [https://codex.buddypress.org/?p=3933](https://codex.buddypress.org/?p=3933) | 2012/06/08
 ♻️ 2358 |  BuddyPress Plugin Development | [https://codex.buddypress.org/?p=2358](https://codex.buddypress.org/?p=2358) | 2010/11/10
 6923 |  — Add custom filters to loops and enjoy them within your plugin | [https://codex.buddypress.org/?p=6923](https://codex.buddypress.org/?p=6923) | 2013/12/03
 ♻️ 15039 |  — BP_Attachment | [https://codex.buddypress.org/?p=15039](https://codex.buddypress.org/?p=15039) | 2015/05/06
