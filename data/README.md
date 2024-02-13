@@ -236,8 +236,8 @@ Page ID | Title | Link | Published on
 16877 |  — Filter Emails | [https://codex.buddypress.org/?p=16877](https://codex.buddypress.org/?p=16877) | 2019/04/27
 7159 |  Mobile | [https://codex.buddypress.org/?p=7159](https://codex.buddypress.org/?p=7159) | 2013/12/14
 ♻️ 1249 |  Official Logos and Typeface | [https://codex.buddypress.org/?p=1249](https://codex.buddypress.org/?p=1249) | 2009/12/07
-2262 |  Template Pack Walkthrough – Easy Level | [https://codex.buddypress.org/?p=2262](https://codex.buddypress.org/?p=2262) | 2010/10/13
-2958 |  Template Pack Walkthrough – Twenty Eleven | [https://codex.buddypress.org/?p=2958](https://codex.buddypress.org/?p=2958) | 2011/10/04
+🛑 2262 |  Template Pack Walkthrough – Easy Level | [https://codex.buddypress.org/?p=2262](https://codex.buddypress.org/?p=2262) | 2010/10/13
+🛑 2958 |  Template Pack Walkthrough – Twenty Eleven | [https://codex.buddypress.org/?p=2958](https://codex.buddypress.org/?p=2958) | 2011/10/04
 🛑 4479 |  Legacy Docs | [https://codex.buddypress.org/?p=4479](https://codex.buddypress.org/?p=4479) | 2012/12/01
 🛑 14502 |  — Archived Section: Getting Started | [https://codex.buddypress.org/?p=14502](https://codex.buddypress.org/?p=14502) | 2014/12/08
 🛑 1855 |  — — Configuring Components | [https://codex.buddypress.org/?p=1855](https://codex.buddypress.org/?p=1855) | 2010/09/15
@@ -257,7 +257,7 @@ Page ID | Title | Link | Published on
 🛑 952 |  — — Upgrading BuddyPress | [https://codex.buddypress.org/?p=952](https://codex.buddypress.org/?p=952) | 2009/07/15
 🛑 1755 |  — — Using an existing bbPress installation for your BuddyPress Forums | [https://codex.buddypress.org/?p=1755](https://codex.buddypress.org/?p=1755) | 2010/07/17
 🛑 4756 |  — — Using bbPress 2.2+ with BuddyPress | [https://codex.buddypress.org/?p=4756](https://codex.buddypress.org/?p=4756) | 2012/12/16
-2622 |  — — Using the Built-in WordPress Menus | [https://codex.buddypress.org/?p=2622](https://codex.buddypress.org/?p=2622) | 2011/08/18
+🛑 2622 |  — — Using the Built-in WordPress Menus | [https://codex.buddypress.org/?p=2622](https://codex.buddypress.org/?p=2622) | 2011/08/18
 🛑 14504 |  — Archived Section: Theme Development | [https://codex.buddypress.org/?p=14504](https://codex.buddypress.org/?p=14504) | 2014/12/08
 🛑 5427 |  — — BP 1.7 – Upgrading « Template Packed » Themes | [https://codex.buddypress.org/?p=5427](https://codex.buddypress.org/?p=5427) | 2013/04/02
 🛑 1859 |  — — Installing a Compatible Theme | [https://codex.buddypress.org/?p=1859](https://codex.buddypress.org/?p=1859) | 2010/09/15
@@ -269,7 +269,7 @@ Page ID | Title | Link | Published on
 🛑 1127 |  — — Upgrading a 1.0 Theme to 1.1 | [https://codex.buddypress.org/?p=1127](https://codex.buddypress.org/?p=1127) | 2009/09/30
 🛑 14524 |  — Archived Section: Plugin Development | [https://codex.buddypress.org/?p=14524](https://codex.buddypress.org/?p=14524) | 2014/12/08
 🛑 2525 |  — — Plugin Compatibility – BP 1.5 | [https://codex.buddypress.org/?p=2525](https://codex.buddypress.org/?p=2525) | 2011/08/03
-4642 |  — — Skeleton Component | [https://codex.buddypress.org/?p=4642](https://codex.buddypress.org/?p=4642) | 2011/12/02
+🛑 4642 |  — — Skeleton Component | [https://codex.buddypress.org/?p=4642](https://codex.buddypress.org/?p=4642) | 2011/12/02
 🛑 54 |  — — Creating a Custom Component | [https://codex.buddypress.org/?p=54](https://codex.buddypress.org/?p=54) | 2008/09/19
 🛑 14511 |  — Archived Section: Developer Resources | [https://codex.buddypress.org/?p=14511](https://codex.buddypress.org/?p=14511) | 2014/12/08
 🛑 5951 |  — — Group Extension API (legacy) | [https://codex.buddypress.org/?p=5951](https://codex.buddypress.org/?p=5951) | 2013/07/16
