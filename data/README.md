@@ -165,18 +165,18 @@ Page ID | Title | Link | Published on
 5176 |  — Checking for Active Components in Plugins or Themes | [https://codex.buddypress.org/?p=5176](https://codex.buddypress.org/?p=5176) | 2013/02/22
 ♻️ 6117 |  — Filters & Constants Reference | [https://codex.buddypress.org/?p=6117](https://codex.buddypress.org/?p=6117) | 2013/08/18
 5193 |  — — bp_get_template_part Filter | [https://codex.buddypress.org/?p=5193](https://codex.buddypress.org/?p=5193) | 2013/02/28
-6081 |  — Function Examples | [https://codex.buddypress.org/?p=6081](https://codex.buddypress.org/?p=6081) | 2013/08/10
-5910 |  — — bp_activity_action_spam_activity() | [https://codex.buddypress.org/?p=5910](https://codex.buddypress.org/?p=5910) | 2013/06/28
-6194 |  — — bp_activity_add() | [https://codex.buddypress.org/?p=6194](https://codex.buddypress.org/?p=6194) | 2013/09/29
-14451 |  — — bp_activity_set_action() | [https://codex.buddypress.org/?p=14451](https://codex.buddypress.org/?p=14451) | 2014/12/01
-5121 |  — — bp_after_setup_theme() | [https://codex.buddypress.org/?p=5121](https://codex.buddypress.org/?p=5121) | 2013/02/14
-4702 |  — — bp_ajax_querystring() | [https://codex.buddypress.org/?p=4702](https://codex.buddypress.org/?p=4702) | 2012/12/04
-5922 |  — — bp_core_get_userlink() | [https://codex.buddypress.org/?p=5922](https://codex.buddypress.org/?p=5922) | 2013/06/30
-4761 |  — — bp_get_the_profile_field_value() | [https://codex.buddypress.org/?p=4761](https://codex.buddypress.org/?p=4761) | 2012/12/17
-5481 |  — — bp_load_theme_functions() | [https://codex.buddypress.org/?p=5481](https://codex.buddypress.org/?p=5481) | 2013/04/08
-5445 |  — — bp_member_user_id() | [https://codex.buddypress.org/?p=5445](https://codex.buddypress.org/?p=5445) | 2013/04/20
-7558 |  — — bp_notifications_add_notification | [https://codex.buddypress.org/?p=7558](https://codex.buddypress.org/?p=7558) | 2014/03/09
-5302 |  — — bp_profile_field_data() | [https://codex.buddypress.org/?p=5302](https://codex.buddypress.org/?p=5302) | 2013/03/18
+🛑 6081 |  — Function Examples | [https://codex.buddypress.org/?p=6081](https://codex.buddypress.org/?p=6081) | 2013/08/10
+🛑 5910 |  — — bp_activity_action_spam_activity() | [https://codex.buddypress.org/?p=5910](https://codex.buddypress.org/?p=5910) | 2013/06/28
+🛑 6194 |  — — bp_activity_add() | [https://codex.buddypress.org/?p=6194](https://codex.buddypress.org/?p=6194) | 2013/09/29
+🛑 14451 |  — — bp_activity_set_action() | [https://codex.buddypress.org/?p=14451](https://codex.buddypress.org/?p=14451) | 2014/12/01
+🛑 5121 |  — — bp_after_setup_theme() | [https://codex.buddypress.org/?p=5121](https://codex.buddypress.org/?p=5121) | 2013/02/14
+🛑 4702 |  — — bp_ajax_querystring() | [https://codex.buddypress.org/?p=4702](https://codex.buddypress.org/?p=4702) | 2012/12/04
+🛑 5922 |  — — bp_core_get_userlink() | [https://codex.buddypress.org/?p=5922](https://codex.buddypress.org/?p=5922) | 2013/06/30
+🛑 4761 |  — — bp_get_the_profile_field_value() | [https://codex.buddypress.org/?p=4761](https://codex.buddypress.org/?p=4761) | 2012/12/17
+🛑 5481 |  — — bp_load_theme_functions() | [https://codex.buddypress.org/?p=5481](https://codex.buddypress.org/?p=5481) | 2013/04/08
+🛑 5445 |  — — bp_member_user_id() | [https://codex.buddypress.org/?p=5445](https://codex.buddypress.org/?p=5445) | 2013/04/20
+🛑 7558 |  — — bp_notifications_add_notification | [https://codex.buddypress.org/?p=7558](https://codex.buddypress.org/?p=7558) | 2014/03/09
+🛑 5302 |  — — bp_profile_field_data() | [https://codex.buddypress.org/?p=5302](https://codex.buddypress.org/?p=5302) | 2013/03/18
 259 |  — — Core Component | [https://codex.buddypress.org/?p=259](https://codex.buddypress.org/?p=259) | 2009/01/03
 3902 |  — — — bp_core_new_nav_default() | [https://codex.buddypress.org/?p=3902](https://codex.buddypress.org/?p=3902) | 2012/05/16
 1046 |  — — — bp_core_new_nav_item() | [https://codex.buddypress.org/?p=1046](https://codex.buddypress.org/?p=1046) | 2009/09/02
@@ -192,7 +192,7 @@ Page ID | Title | Link | Published on
 709 |  — — Group Members Loop | [https://codex.buddypress.org/?p=709](https://codex.buddypress.org/?p=709) | 2009/04/29
 714 |  — — Private Messages Loop | [https://codex.buddypress.org/?p=714](https://codex.buddypress.org/?p=714) | 2009/04/29
 723 |  — — Profile Fields Loop | [https://codex.buddypress.org/?p=723](https://codex.buddypress.org/?p=723) | 2009/04/29
-14566 |  — Member Types | [https://codex.buddypress.org/?p=14566](https://codex.buddypress.org/?p=14566) | 2014/12/08
+♻️ 14566 |  — Member Types | [https://codex.buddypress.org/?p=14566](https://codex.buddypress.org/?p=14566) | 2014/12/08
 16021 |  — Navigation API | [https://codex.buddypress.org/?p=16021](https://codex.buddypress.org/?p=16021) | 2016/07/08
 🛑 8655 |  — User Submitted Guides | [https://codex.buddypress.org/?p=8655](https://codex.buddypress.org/?p=8655) | 2014/11/24
 🛑 16038 |  — — Change « Activity » component’s name and slug to something else. | [https://codex.buddypress.org/?p=16038](https://codex.buddypress.org/?p=16038) | 2016/07/19
