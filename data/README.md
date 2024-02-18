@@ -81,13 +81,13 @@ Page ID | Title | Link | Published on
 5700 |  — Groups | [https://codex.buddypress.org/?p=5700](https://codex.buddypress.org/?p=5700) | 2013/05/08
 1688 |  — Group Settings and Roles | [https://codex.buddypress.org/?p=1688](https://codex.buddypress.org/?p=1688) | 2010/07/12
 🛑 7863 |  — BuddyPress Repair Tools Admin Screen | [https://codex.buddypress.org/?p=7863](https://codex.buddypress.org/?p=7863) | 2014/04/16
-8544 |  Member Guide | [https://codex.buddypress.org/?p=8544](https://codex.buddypress.org/?p=8544) | 2014/11/09
-14899 |  — Registration | [https://codex.buddypress.org/?p=14899](https://codex.buddypress.org/?p=14899) | 2015/03/24
-14884 |  — Activity  →  Personal | [https://codex.buddypress.org/?p=14884](https://codex.buddypress.org/?p=14884) | 2015/03/24
-14886 |  — Activity   →  Mentions | [https://codex.buddypress.org/?p=14886](https://codex.buddypress.org/?p=14886) | 2015/03/24
-14888 |  — Activity  →  Favorites | [https://codex.buddypress.org/?p=14888](https://codex.buddypress.org/?p=14888) | 2015/03/24
-14891 |  — Activity  →  Friends | [https://codex.buddypress.org/?p=14891](https://codex.buddypress.org/?p=14891) | 2015/03/24
-14893 |  — Activity  →  Groups | [https://codex.buddypress.org/?p=14893](https://codex.buddypress.org/?p=14893) | 2015/07/08
+🛑 8544 |  Member Guide | [https://codex.buddypress.org/?p=8544](https://codex.buddypress.org/?p=8544) | 2014/11/09
+🛑 14899 |  — Registration | [https://codex.buddypress.org/?p=14899](https://codex.buddypress.org/?p=14899) | 2015/03/24
+🛑 14884 |  — Activity  →  Personal | [https://codex.buddypress.org/?p=14884](https://codex.buddypress.org/?p=14884) | 2015/03/24
+🛑 14886 |  — Activity   →  Mentions | [https://codex.buddypress.org/?p=14886](https://codex.buddypress.org/?p=14886) | 2015/03/24
+🛑 14888 |  — Activity  →  Favorites | [https://codex.buddypress.org/?p=14888](https://codex.buddypress.org/?p=14888) | 2015/03/24
+🛑 14891 |  — Activity  →  Friends | [https://codex.buddypress.org/?p=14891](https://codex.buddypress.org/?p=14891) | 2015/03/24
+🛑 14893 |  — Activity  →  Groups | [https://codex.buddypress.org/?p=14893](https://codex.buddypress.org/?p=14893) | 2015/07/08
 14878 |  — Profile  →  View | [https://codex.buddypress.org/?p=14878](https://codex.buddypress.org/?p=14878) | 2015/07/14
 14880 |  — Profile  →  Edit | [https://codex.buddypress.org/?p=14880](https://codex.buddypress.org/?p=14880) | 2015/07/14
 14882 |  — Profile  →  Change Profile Photo | [https://codex.buddypress.org/?p=14882](https://codex.buddypress.org/?p=14882) | 2015/07/15
