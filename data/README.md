@@ -88,11 +88,11 @@ Page ID | Title | Link | Published on
 🛑 14888 |  — Activity  →  Favorites | [https://codex.buddypress.org/?p=14888](https://codex.buddypress.org/?p=14888) | 2015/03/24
 🛑 14891 |  — Activity  →  Friends | [https://codex.buddypress.org/?p=14891](https://codex.buddypress.org/?p=14891) | 2015/03/24
 🛑 14893 |  — Activity  →  Groups | [https://codex.buddypress.org/?p=14893](https://codex.buddypress.org/?p=14893) | 2015/07/08
-14878 |  — Profile  →  View | [https://codex.buddypress.org/?p=14878](https://codex.buddypress.org/?p=14878) | 2015/07/14
-14880 |  — Profile  →  Edit | [https://codex.buddypress.org/?p=14880](https://codex.buddypress.org/?p=14880) | 2015/07/14
-14882 |  — Profile  →  Change Profile Photo | [https://codex.buddypress.org/?p=14882](https://codex.buddypress.org/?p=14882) | 2015/07/15
-14874 |  — Notifications → Unread | [https://codex.buddypress.org/?p=14874](https://codex.buddypress.org/?p=14874) | 2015/07/15
-14876 |  — Notifications → Read | [https://codex.buddypress.org/?p=14876](https://codex.buddypress.org/?p=14876) | 2015/03/18
+🛑 14878 |  — Profile  →  View | [https://codex.buddypress.org/?p=14878](https://codex.buddypress.org/?p=14878) | 2015/07/14
+🛑 14880 |  — Profile  →  Edit | [https://codex.buddypress.org/?p=14880](https://codex.buddypress.org/?p=14880) | 2015/07/14
+🛑 14882 |  — Profile  →  Change Profile Photo | [https://codex.buddypress.org/?p=14882](https://codex.buddypress.org/?p=14882) | 2015/07/15
+🛑 14874 |  — Notifications → Unread | [https://codex.buddypress.org/?p=14874](https://codex.buddypress.org/?p=14874) | 2015/07/15
+🛑 14876 |  — Notifications → Read | [https://codex.buddypress.org/?p=14876](https://codex.buddypress.org/?p=14876) | 2015/03/18
 14866 |  — Messages → Inbox | [https://codex.buddypress.org/?p=14866](https://codex.buddypress.org/?p=14866) | 2015/07/15
 15259 |  — Messages → Starred | [https://codex.buddypress.org/?p=15259](https://codex.buddypress.org/?p=15259) | 2015/07/15
 14868 |  — Messages → Sent | [https://codex.buddypress.org/?p=14868](https://codex.buddypress.org/?p=14868) | 2015/07/15
