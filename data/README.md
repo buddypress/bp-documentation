@@ -93,19 +93,19 @@ Page ID | Title | Link | Published on
 🛑 14882 |  — Profile  →  Change Profile Photo | [https://codex.buddypress.org/?p=14882](https://codex.buddypress.org/?p=14882) | 2015/07/15
 🛑 14874 |  — Notifications → Unread | [https://codex.buddypress.org/?p=14874](https://codex.buddypress.org/?p=14874) | 2015/07/15
 🛑 14876 |  — Notifications → Read | [https://codex.buddypress.org/?p=14876](https://codex.buddypress.org/?p=14876) | 2015/03/18
-14866 |  — Messages → Inbox | [https://codex.buddypress.org/?p=14866](https://codex.buddypress.org/?p=14866) | 2015/07/15
-15259 |  — Messages → Starred | [https://codex.buddypress.org/?p=15259](https://codex.buddypress.org/?p=15259) | 2015/07/15
-14868 |  — Messages → Sent | [https://codex.buddypress.org/?p=14868](https://codex.buddypress.org/?p=14868) | 2015/07/15
-14870 |  — Messages → Compose | [https://codex.buddypress.org/?p=14870](https://codex.buddypress.org/?p=14870) | 2015/07/15
-14862 |  — Friends → Friendships | [https://codex.buddypress.org/?p=14862](https://codex.buddypress.org/?p=14862) | 2015/07/15
-14864 |  — Friends → Requests | [https://codex.buddypress.org/?p=14864](https://codex.buddypress.org/?p=14864) | 2015/07/15
-14854 |  — Groups → Memberships | [https://codex.buddypress.org/?p=14854](https://codex.buddypress.org/?p=14854) | 2015/07/15
-14852 |  — Groups → Invitations | [https://codex.buddypress.org/?p=14852](https://codex.buddypress.org/?p=14852) | 2015/07/15
-14856 |  — Settings → General | [https://codex.buddypress.org/?p=14856](https://codex.buddypress.org/?p=14856) | 2015/07/15
-14858 |  — Settings → Email | [https://codex.buddypress.org/?p=14858](https://codex.buddypress.org/?p=14858) | 2015/07/15
-14860 |  — Settings → Profile Visibility | [https://codex.buddypress.org/?p=14860](https://codex.buddypress.org/?p=14860) | 2015/07/15
-15276 |  — Settings  → Delete Account | [https://codex.buddypress.org/?p=15276](https://codex.buddypress.org/?p=15276) | 2015/07/15
-5823 |  — How To Join a Private Group | [https://codex.buddypress.org/?p=5823](https://codex.buddypress.org/?p=5823) | 2013/05/27
+🛑 14866 |  — Messages → Inbox | [https://codex.buddypress.org/?p=14866](https://codex.buddypress.org/?p=14866) | 2015/07/15
+🛑 15259 |  — Messages → Starred | [https://codex.buddypress.org/?p=15259](https://codex.buddypress.org/?p=15259) | 2015/07/15
+🛑 14868 |  — Messages → Sent | [https://codex.buddypress.org/?p=14868](https://codex.buddypress.org/?p=14868) | 2015/07/15
+🛑 14870 |  — Messages → Compose | [https://codex.buddypress.org/?p=14870](https://codex.buddypress.org/?p=14870) | 2015/07/15
+🛑 14862 |  — Friends → Friendships | [https://codex.buddypress.org/?p=14862](https://codex.buddypress.org/?p=14862) | 2015/07/15
+🛑 14864 |  — Friends → Requests | [https://codex.buddypress.org/?p=14864](https://codex.buddypress.org/?p=14864) | 2015/07/15
+🛑 14854 |  — Groups → Memberships | [https://codex.buddypress.org/?p=14854](https://codex.buddypress.org/?p=14854) | 2015/07/15
+🛑 14852 |  — Groups → Invitations | [https://codex.buddypress.org/?p=14852](https://codex.buddypress.org/?p=14852) | 2015/07/15
+🛑 14856 |  — Settings → General | [https://codex.buddypress.org/?p=14856](https://codex.buddypress.org/?p=14856) | 2015/07/15
+🛑 14858 |  — Settings → Email | [https://codex.buddypress.org/?p=14858](https://codex.buddypress.org/?p=14858) | 2015/07/15
+🛑 14860 |  — Settings → Profile Visibility | [https://codex.buddypress.org/?p=14860](https://codex.buddypress.org/?p=14860) | 2015/07/15
+🛑 15276 |  — Settings  → Delete Account | [https://codex.buddypress.org/?p=15276](https://codex.buddypress.org/?p=15276) | 2015/07/15
+♻️ 5823 |  — How To Join a Private Group | [https://codex.buddypress.org/?p=5823](https://codex.buddypress.org/?p=5823) | 2013/05/27
 2356 |  BuddyPress Theme Development | [https://codex.buddypress.org/?p=2356](https://codex.buddypress.org/?p=2356) | 2010/11/10
 15065 |  — BuddyPress Companion Stylesheets | [https://codex.buddypress.org/?p=15065](https://codex.buddypress.org/?p=15065) | 2015/05/26
 15467 |  — BuddyPress Cover Images | [https://codex.buddypress.org/?p=15467](https://codex.buddypress.org/?p=15467) | 2015/10/09
