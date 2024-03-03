@@ -45,7 +45,7 @@ Page ID | Title | Link | Published on
 🛑 1155 |  — — Changing Internal Configuration Settings | [https://codex.buddypress.org/?p=1155](https://codex.buddypress.org/?p=1155) | 2009/09/30
 ♻️ 524 |  — — Customizing Labels, Messages, and URLs | [https://codex.buddypress.org/?p=524](https://codex.buddypress.org/?p=524) | 2009/04/08
 ♻️ 7106 |  — Videos | [https://codex.buddypress.org/?p=7106](https://codex.buddypress.org/?p=7106) | 2013/12/11
-5110 |  — Register and Activation Pages | [https://codex.buddypress.org/?p=5110](https://codex.buddypress.org/?p=5110) | 2013/02/13
+🛑 5110 |  — Register and Activation Pages | [https://codex.buddypress.org/?p=5110](https://codex.buddypress.org/?p=5110) | 2013/02/13
 🛑 2923 |  — Embeds | [https://codex.buddypress.org/?p=2923](https://codex.buddypress.org/?p=2923) | 2011/09/26
 🛑 194 |  — Improving Performance | [https://codex.buddypress.org/?p=194](https://codex.buddypress.org/?p=194) | 2008/12/18
 🛑 1877 |  — Importing Data | [https://codex.buddypress.org/?p=1877](https://codex.buddypress.org/?p=1877) | 2010/09/15
@@ -69,14 +69,14 @@ Page ID | Title | Link | Published on
 🛑 4408 |  — — Migrating from old forums to bbPress 2.2+ | [https://codex.buddypress.org/?p=4408](https://codex.buddypress.org/?p=4408) | 2012/11/22
 8542 |  Administrator Guide | [https://codex.buddypress.org/?p=8542](https://codex.buddypress.org/?p=8542) | 2014/11/09
 ♻️ 17466 |  — Alternative Registration Workflows | [https://codex.buddypress.org/?p=17466](https://codex.buddypress.org/?p=17466) | 2021/12/15
-5680 |  — Members | [https://codex.buddypress.org/?p=5680](https://codex.buddypress.org/?p=5680) | 2013/05/07
+🛑 5680 |  — Members | [https://codex.buddypress.org/?p=5680](https://codex.buddypress.org/?p=5680) | 2013/05/07
 5647 |  — Messages | [https://codex.buddypress.org/?p=5647](https://codex.buddypress.org/?p=5647) | 2013/05/07
 ♻️ 7846 |  — Manage User Signups | [https://codex.buddypress.org/?p=7846](https://codex.buddypress.org/?p=7846) | 2014/04/16
 7866 |  — Mark as Spam Admin Screen | [https://codex.buddypress.org/?p=7866](https://codex.buddypress.org/?p=7866) | 2014/04/16
 ♻️ 5654 |  — User Extended Profiles | [https://codex.buddypress.org/?p=5654](https://codex.buddypress.org/?p=5654) | 2013/05/07
 7838 |  — Edit User Profiles Admin Screen | [https://codex.buddypress.org/?p=7838](https://codex.buddypress.org/?p=7838) | 2014/04/16
 7825 |  — Notifications | [https://codex.buddypress.org/?p=7825](https://codex.buddypress.org/?p=7825) | 2014/04/16
-5671 |  — Activity Streams | [https://codex.buddypress.org/?p=5671](https://codex.buddypress.org/?p=5671) | 2013/05/07
+🛑 5671 |  — Activity Streams | [https://codex.buddypress.org/?p=5671](https://codex.buddypress.org/?p=5671) | 2013/05/07
 8557 |  — Moderate Activity Streams | [https://codex.buddypress.org/?p=8557](https://codex.buddypress.org/?p=8557) | 2014/11/09
 5700 |  — Groups | [https://codex.buddypress.org/?p=5700](https://codex.buddypress.org/?p=5700) | 2013/05/08
 1688 |  — Group Settings and Roles | [https://codex.buddypress.org/?p=1688](https://codex.buddypress.org/?p=1688) | 2010/07/12
