@@ -70,7 +70,7 @@ Page ID | Title | Link | Published on
 8542 |  Administrator Guide | [https://codex.buddypress.org/?p=8542](https://codex.buddypress.org/?p=8542) | 2014/11/09
 ♻️ 17466 |  — Alternative Registration Workflows | [https://codex.buddypress.org/?p=17466](https://codex.buddypress.org/?p=17466) | 2021/12/15
 🛑 5680 |  — Members | [https://codex.buddypress.org/?p=5680](https://codex.buddypress.org/?p=5680) | 2013/05/07
-5647 |  — Messages | [https://codex.buddypress.org/?p=5647](https://codex.buddypress.org/?p=5647) | 2013/05/07
+🛑 5647 |  — Messages | [https://codex.buddypress.org/?p=5647](https://codex.buddypress.org/?p=5647) | 2013/05/07
 ♻️ 7846 |  — Manage User Signups | [https://codex.buddypress.org/?p=7846](https://codex.buddypress.org/?p=7846) | 2014/04/16
 7866 |  — Mark as Spam Admin Screen | [https://codex.buddypress.org/?p=7866](https://codex.buddypress.org/?p=7866) | 2014/04/16
 ♻️ 5654 |  — User Extended Profiles | [https://codex.buddypress.org/?p=5654](https://codex.buddypress.org/?p=5654) | 2013/05/07
@@ -78,8 +78,8 @@ Page ID | Title | Link | Published on
 7825 |  — Notifications | [https://codex.buddypress.org/?p=7825](https://codex.buddypress.org/?p=7825) | 2014/04/16
 🛑 5671 |  — Activity Streams | [https://codex.buddypress.org/?p=5671](https://codex.buddypress.org/?p=5671) | 2013/05/07
 8557 |  — Moderate Activity Streams | [https://codex.buddypress.org/?p=8557](https://codex.buddypress.org/?p=8557) | 2014/11/09
-5700 |  — Groups | [https://codex.buddypress.org/?p=5700](https://codex.buddypress.org/?p=5700) | 2013/05/08
-1688 |  — Group Settings and Roles | [https://codex.buddypress.org/?p=1688](https://codex.buddypress.org/?p=1688) | 2010/07/12
+🛑 5700 |  — Groups | [https://codex.buddypress.org/?p=5700](https://codex.buddypress.org/?p=5700) | 2013/05/08
+♻️ 1688 |  — Group Settings and Roles | [https://codex.buddypress.org/?p=1688](https://codex.buddypress.org/?p=1688) | 2010/07/12
 🛑 7863 |  — BuddyPress Repair Tools Admin Screen | [https://codex.buddypress.org/?p=7863](https://codex.buddypress.org/?p=7863) | 2014/04/16
 🛑 8544 |  Member Guide | [https://codex.buddypress.org/?p=8544](https://codex.buddypress.org/?p=8544) | 2014/11/09
 🛑 14899 |  — Registration | [https://codex.buddypress.org/?p=14899](https://codex.buddypress.org/?p=14899) | 2015/03/24
