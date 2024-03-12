@@ -202,11 +202,11 @@ Page ID | Title | Link | Published on
 854 |  — Template Tag Reference | [https://codex.buddypress.org/?p=854](https://codex.buddypress.org/?p=854) | 2009/06/12
 ♻️ 5957 |  — Group Extension API | [https://codex.buddypress.org/?p=5957](https://codex.buddypress.org/?p=5957) | 2013/07/16
 6809 |  — Playing with the user’s ID in different contexts | [https://codex.buddypress.org/?p=6809](https://codex.buddypress.org/?p=6809) | 2013/11/23
-761 |  — The $bp Global | [https://codex.buddypress.org/?p=761](https://codex.buddypress.org/?p=761) | 2009/05/05
-1032 |  — Deprecated | [https://codex.buddypress.org/?p=1032](https://codex.buddypress.org/?p=1032) | 2009/09/02
-270 |  — — bp_core_add_nav_item() | [https://codex.buddypress.org/?p=270](https://codex.buddypress.org/?p=270) | 2009/01/03
-286 |  — — bp_core_add_subnav_item() | [https://codex.buddypress.org/?p=286](https://codex.buddypress.org/?p=286) | 2009/01/03
-283 |  — — bp_core_add_nav_default() | [https://codex.buddypress.org/?p=283](https://codex.buddypress.org/?p=283) | 2009/01/03
+🛑 761 |  — The $bp Global | [https://codex.buddypress.org/?p=761](https://codex.buddypress.org/?p=761) | 2009/05/05
+🛑 1032 |  — Deprecated | [https://codex.buddypress.org/?p=1032](https://codex.buddypress.org/?p=1032) | 2009/09/02
+🛑 270 |  — — bp_core_add_nav_item() | [https://codex.buddypress.org/?p=270](https://codex.buddypress.org/?p=270) | 2009/01/03
+🛑 286 |  — — bp_core_add_subnav_item() | [https://codex.buddypress.org/?p=286](https://codex.buddypress.org/?p=286) | 2009/01/03
+🛑 283 |  — — bp_core_add_nav_default() | [https://codex.buddypress.org/?p=283](https://codex.buddypress.org/?p=283) | 2009/01/03
 ♻️ 90 |  Languages and Translations | [https://codex.buddypress.org/?p=90](https://codex.buddypress.org/?p=90) | 2012/11/07
 🛑 129 |  — Brazilian Portuguese  – Português do Brasil (pt_BR) | [https://codex.buddypress.org/?p=129](https://codex.buddypress.org/?p=129) | 2008/11/18
 🛑 566 |  — Danish – Dansk (da_DK) | [https://codex.buddypress.org/?p=566](https://codex.buddypress.org/?p=566) | 2009/04/19
