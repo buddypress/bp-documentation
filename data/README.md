@@ -182,16 +182,16 @@ Page ID | Title | Link | Published on
 🛑 1046 |  — — — bp_core_new_nav_item() | [https://codex.buddypress.org/?p=1046](https://codex.buddypress.org/?p=1046) | 2009/09/02
 🛑 3820 |  — — groups_get_groupmeta() | [https://codex.buddypress.org/?p=3820](https://codex.buddypress.org/?p=3820) | 2012/04/12
 🛑 3830 |  — — groups_group_create_complete() | [https://codex.buddypress.org/?p=3830](https://codex.buddypress.org/?p=3830) | 2012/04/13
-15951 |  — Group Types | [https://codex.buddypress.org/?p=15951](https://codex.buddypress.org/?p=15951) | 2016/06/15
-602 |  — Loops Reference | [https://codex.buddypress.org/?p=602](https://codex.buddypress.org/?p=602) | 2012/02/28
-604 |  — — Activity Loop | [https://codex.buddypress.org/?p=604](https://codex.buddypress.org/?p=604) | 2009/04/28
+♻️ 15951 |  — Group Types | [https://codex.buddypress.org/?p=15951](https://codex.buddypress.org/?p=15951) | 2016/06/15
+🛑 602 |  — Loops Reference | [https://codex.buddypress.org/?p=602](https://codex.buddypress.org/?p=602) | 2012/02/28
+🛑 604 |  — — Activity Loop | [https://codex.buddypress.org/?p=604](https://codex.buddypress.org/?p=604) | 2009/04/28
 🛑 1643 |  — — Forum Topics Loop | [https://codex.buddypress.org/?p=1643](https://codex.buddypress.org/?p=1643) | 2010/05/17
-633 |  — — Members Loop | [https://codex.buddypress.org/?p=633](https://codex.buddypress.org/?p=633) | 2009/04/28
-646 |  — — Groups Loop | [https://codex.buddypress.org/?p=646](https://codex.buddypress.org/?p=646) | 2009/04/29
-651 |  — — Blogs Loop | [https://codex.buddypress.org/?p=651](https://codex.buddypress.org/?p=651) | 2009/04/29
-709 |  — — Group Members Loop | [https://codex.buddypress.org/?p=709](https://codex.buddypress.org/?p=709) | 2009/04/29
-714 |  — — Private Messages Loop | [https://codex.buddypress.org/?p=714](https://codex.buddypress.org/?p=714) | 2009/04/29
-723 |  — — Profile Fields Loop | [https://codex.buddypress.org/?p=723](https://codex.buddypress.org/?p=723) | 2009/04/29
+🛑 633 |  — — Members Loop | [https://codex.buddypress.org/?p=633](https://codex.buddypress.org/?p=633) | 2009/04/28
+🛑 646 |  — — Groups Loop | [https://codex.buddypress.org/?p=646](https://codex.buddypress.org/?p=646) | 2009/04/29
+🛑 651 |  — — Blogs Loop | [https://codex.buddypress.org/?p=651](https://codex.buddypress.org/?p=651) | 2009/04/29
+🛑 709 |  — — Group Members Loop | [https://codex.buddypress.org/?p=709](https://codex.buddypress.org/?p=709) | 2009/04/29
+🛑 714 |  — — Private Messages Loop | [https://codex.buddypress.org/?p=714](https://codex.buddypress.org/?p=714) | 2009/04/29
+🛑 723 |  — — Profile Fields Loop | [https://codex.buddypress.org/?p=723](https://codex.buddypress.org/?p=723) | 2009/04/29
 ♻️ 14566 |  — Member Types | [https://codex.buddypress.org/?p=14566](https://codex.buddypress.org/?p=14566) | 2014/12/08
 16021 |  — Navigation API | [https://codex.buddypress.org/?p=16021](https://codex.buddypress.org/?p=16021) | 2016/07/08
 🛑 8655 |  — User Submitted Guides | [https://codex.buddypress.org/?p=8655](https://codex.buddypress.org/?p=8655) | 2014/11/24
