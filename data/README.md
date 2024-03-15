@@ -137,20 +137,20 @@ Page ID | Title | Link | Published on
 ♻️ 2358 |  BuddyPress Plugin Development | [https://codex.buddypress.org/?p=2358](https://codex.buddypress.org/?p=2358) | 2010/11/10
 🛑 6923 |  — Add custom filters to loops and enjoy them within your plugin | [https://codex.buddypress.org/?p=6923](https://codex.buddypress.org/?p=6923) | 2013/12/03
 ♻️ 15039 |  — BP_Attachment | [https://codex.buddypress.org/?p=15039](https://codex.buddypress.org/?p=15039) | 2015/05/06
-16845 |  — Groups Admin – Add Custom Column | [https://codex.buddypress.org/?p=16845](https://codex.buddypress.org/?p=16845) | 2019/01/16
+🛑 16845 |  — Groups Admin – Add Custom Column | [https://codex.buddypress.org/?p=16845](https://codex.buddypress.org/?p=16845) | 2019/01/16
 ♻️ 14473 |  — Post Types Activities | [https://codex.buddypress.org/?p=14473](https://codex.buddypress.org/?p=14473) | 2014/12/04
-7988 |  — Template Overload from a Plugin | [https://codex.buddypress.org/?p=7988](https://codex.buddypress.org/?p=7988) | 2014/05/22
+🛑 7988 |  — Template Overload from a Plugin | [https://codex.buddypress.org/?p=7988](https://codex.buddypress.org/?p=7988) | 2014/05/22
 ♻️ 4465 |  — Creating a Plugin | [https://codex.buddypress.org/?p=4465](https://codex.buddypress.org/?p=4465) | 2012/12/01
 ♻️ 1451 |  — Checking For BuddyPress | [https://codex.buddypress.org/?p=1451](https://codex.buddypress.org/?p=1451) | 2010/02/23
-5217 |  — Admin UI for Groups | [https://codex.buddypress.org/?p=5217](https://codex.buddypress.org/?p=5217) | 2013/03/02
+🛑 5217 |  — Admin UI for Groups | [https://codex.buddypress.org/?p=5217](https://codex.buddypress.org/?p=5217) | 2013/03/02
 6617 |  — Group Meta Queries: Usage Example | [https://codex.buddypress.org/?p=6617](https://codex.buddypress.org/?p=6617) | 2013/11/04
-5203 |  — Posting Activity from Plugins | [https://codex.buddypress.org/?p=5203](https://codex.buddypress.org/?p=5203) | 2013/03/01
-3824 |  — How to Edit Group Meta Tutorial | [https://codex.buddypress.org/?p=3824](https://codex.buddypress.org/?p=3824) | 2012/04/12
-6453 |  — Adding Your Plugin’s Link to the BuddyPress Member Toolbar Menu | [https://codex.buddypress.org/?p=6453](https://codex.buddypress.org/?p=6453) | 2013/10/23
-6660 |  — Adding Plugin’s Options to BuddyPress Settings Page | [https://codex.buddypress.org/?p=6660](https://codex.buddypress.org/?p=6660) | 2013/11/09
-5136 |  — Using BP Theme Compat in Plugins | [https://codex.buddypress.org/?p=5136](https://codex.buddypress.org/?p=5136) | 2013/02/19
-5379 |  — Upgrading older plugins that bundle custom templates for BP 1.7 | [https://codex.buddypress.org/?p=5379](https://codex.buddypress.org/?p=5379) | 2013/04/12
-6756 |  — Enqueueing Scripts or Styles only when your plugin needs it | [https://codex.buddypress.org/?p=6756](https://codex.buddypress.org/?p=6756) | 2013/11/17
+🛑 5203 |  — Posting Activity from Plugins | [https://codex.buddypress.org/?p=5203](https://codex.buddypress.org/?p=5203) | 2013/03/01
+🛑 3824 |  — How to Edit Group Meta Tutorial | [https://codex.buddypress.org/?p=3824](https://codex.buddypress.org/?p=3824) | 2012/04/12
+🛑 6453 |  — Adding Your Plugin’s Link to the BuddyPress Member Toolbar Menu | [https://codex.buddypress.org/?p=6453](https://codex.buddypress.org/?p=6453) | 2013/10/23
+🛑 6660 |  — Adding Plugin’s Options to BuddyPress Settings Page | [https://codex.buddypress.org/?p=6660](https://codex.buddypress.org/?p=6660) | 2013/11/09
+🛑 5136 |  — Using BP Theme Compat in Plugins | [https://codex.buddypress.org/?p=5136](https://codex.buddypress.org/?p=5136) | 2013/02/19
+🛑 5379 |  — Upgrading older plugins that bundle custom templates for BP 1.7 | [https://codex.buddypress.org/?p=5379](https://codex.buddypress.org/?p=5379) | 2013/04/12
+🛑 6756 |  — Enqueueing Scripts or Styles only when your plugin needs it | [https://codex.buddypress.org/?p=6756](https://codex.buddypress.org/?p=6756) | 2013/11/17
 6280 |  Developer Resources | [https://codex.buddypress.org/?p=6280](https://codex.buddypress.org/?p=6280) | 2008/09/26
 16822 |  — Activity Stream and date_query | [https://codex.buddypress.org/?p=16822](https://codex.buddypress.org/?p=16822) | 2019/01/14
 7852 |  — Add Meta Box to Admin Extended User Profile | [https://codex.buddypress.org/?p=7852](https://codex.buddypress.org/?p=7852) | 2014/04/16
