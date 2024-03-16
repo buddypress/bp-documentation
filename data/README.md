@@ -106,15 +106,15 @@ Page ID | Title | Link | Published on
 🛑 14860 |  — Settings → Profile Visibility | [https://codex.buddypress.org/?p=14860](https://codex.buddypress.org/?p=14860) | 2015/07/15
 🛑 15276 |  — Settings  → Delete Account | [https://codex.buddypress.org/?p=15276](https://codex.buddypress.org/?p=15276) | 2015/07/15
 ♻️ 5823 |  — How To Join a Private Group | [https://codex.buddypress.org/?p=5823](https://codex.buddypress.org/?p=5823) | 2013/05/27
-2356 |  BuddyPress Theme Development | [https://codex.buddypress.org/?p=2356](https://codex.buddypress.org/?p=2356) | 2010/11/10
-15065 |  — BuddyPress Companion Stylesheets | [https://codex.buddypress.org/?p=15065](https://codex.buddypress.org/?p=15065) | 2015/05/26
-15467 |  — BuddyPress Cover Images | [https://codex.buddypress.org/?p=15467](https://codex.buddypress.org/?p=15467) | 2015/10/09
-6134 |  — Theme Compatibility | [https://codex.buddypress.org/?p=6134](https://codex.buddypress.org/?p=6134) | 2013/08/30
-5233 |  — — Theme Compatibility & Template Files | [https://codex.buddypress.org/?p=5233](https://codex.buddypress.org/?p=5233) | 2013/03/02
-5853 |  — — Template Hierarchy | [https://codex.buddypress.org/?p=5853](https://codex.buddypress.org/?p=5853) | 2013/06/10
-5086 |  — — Theme Compatibility – Customizing | [https://codex.buddypress.org/?p=5086](https://codex.buddypress.org/?p=5086) | 2013/02/06
-5163 |  — — Add BuddyPress Styles to a Theme | [https://codex.buddypress.org/?p=5163](https://codex.buddypress.org/?p=5163) | 2013/02/19
-14570 |  — Updating Custom Themes For New Functionality | [https://codex.buddypress.org/?p=14570](https://codex.buddypress.org/?p=14570) | 2014/12/09
+🛑 2356 |  BuddyPress Theme Development | [https://codex.buddypress.org/?p=2356](https://codex.buddypress.org/?p=2356) | 2010/11/10
+♻️ 15065 |  — BuddyPress Companion Stylesheets | [https://codex.buddypress.org/?p=15065](https://codex.buddypress.org/?p=15065) | 2015/05/26
+♻️ 15467 |  — BuddyPress Cover Images | [https://codex.buddypress.org/?p=15467](https://codex.buddypress.org/?p=15467) | 2015/10/09
+🛑 6134 |  — Theme Compatibility | [https://codex.buddypress.org/?p=6134](https://codex.buddypress.org/?p=6134) | 2013/08/30
+🛑 5233 |  — — Theme Compatibility & Template Files | [https://codex.buddypress.org/?p=5233](https://codex.buddypress.org/?p=5233) | 2013/03/02
+♻️ 5853 |  — — Template Hierarchy | [https://codex.buddypress.org/?p=5853](https://codex.buddypress.org/?p=5853) | 2013/06/10
+♻️ 5086 |  — — Theme Compatibility – Customizing | [https://codex.buddypress.org/?p=5086](https://codex.buddypress.org/?p=5086) | 2013/02/06
+🛑 5163 |  — — Add BuddyPress Styles to a Theme | [https://codex.buddypress.org/?p=5163](https://codex.buddypress.org/?p=5163) | 2013/02/19
+🛑 14570 |  — Updating Custom Themes For New Functionality | [https://codex.buddypress.org/?p=14570](https://codex.buddypress.org/?p=14570) | 2014/12/09
 🛑 14582 |  — — Template Updates 2.1 | [https://codex.buddypress.org/?p=14582](https://codex.buddypress.org/?p=14582) | 2014/12/09
 🛑 14612 |  — — Template Updates 2.2 | [https://codex.buddypress.org/?p=14612](https://codex.buddypress.org/?p=14612) | 2014/12/11
 🛑 16142 |  — — Template Updates 2.7 | [https://codex.buddypress.org/?p=16142](https://codex.buddypress.org/?p=16142) | 2016/10/08
