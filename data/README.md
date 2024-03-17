@@ -72,10 +72,10 @@ Page ID | Title | Link | Published on
 🛑 5680 |  — Members | [https://codex.buddypress.org/?p=5680](https://codex.buddypress.org/?p=5680) | 2013/05/07
 🛑 5647 |  — Messages | [https://codex.buddypress.org/?p=5647](https://codex.buddypress.org/?p=5647) | 2013/05/07
 ♻️ 7846 |  — Manage User Signups | [https://codex.buddypress.org/?p=7846](https://codex.buddypress.org/?p=7846) | 2014/04/16
-7866 |  — Mark as Spam Admin Screen | [https://codex.buddypress.org/?p=7866](https://codex.buddypress.org/?p=7866) | 2014/04/16
+🛑 7866 |  — Mark as Spam Admin Screen | [https://codex.buddypress.org/?p=7866](https://codex.buddypress.org/?p=7866) | 2014/04/16
 ♻️ 5654 |  — User Extended Profiles | [https://codex.buddypress.org/?p=5654](https://codex.buddypress.org/?p=5654) | 2013/05/07
-7838 |  — Edit User Profiles Admin Screen | [https://codex.buddypress.org/?p=7838](https://codex.buddypress.org/?p=7838) | 2014/04/16
-7825 |  — Notifications | [https://codex.buddypress.org/?p=7825](https://codex.buddypress.org/?p=7825) | 2014/04/16
+🛑 7838 |  — Edit User Profiles Admin Screen | [https://codex.buddypress.org/?p=7838](https://codex.buddypress.org/?p=7838) | 2014/04/16
+♻️ 7825 |  — Notifications | [https://codex.buddypress.org/?p=7825](https://codex.buddypress.org/?p=7825) | 2014/04/16
 🛑 5671 |  — Activity Streams | [https://codex.buddypress.org/?p=5671](https://codex.buddypress.org/?p=5671) | 2013/05/07
 8557 |  — Moderate Activity Streams | [https://codex.buddypress.org/?p=8557](https://codex.buddypress.org/?p=8557) | 2014/11/09
 🛑 5700 |  — Groups | [https://codex.buddypress.org/?p=5700](https://codex.buddypress.org/?p=5700) | 2013/05/08
