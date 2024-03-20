@@ -65,7 +65,7 @@ Page ID | Title | Link | Published on
 🛑 8376 |  — — Deprecated Guides | [https://codex.buddypress.org/?p=8376](https://codex.buddypress.org/?p=8376) | 2014/10/02
 🛑 542 |  — — — Modifying the Toolbar | [https://codex.buddypress.org/?p=542](https://codex.buddypress.org/?p=542) | 2009/04/16
 🛑 6504 |  — — Modifying the Registration Form | [https://codex.buddypress.org/?p=6504](https://codex.buddypress.org/?p=6504) | 2013/10/31
-6533 |  — — Preventing Spammer Registration | [https://codex.buddypress.org/?p=6533](https://codex.buddypress.org/?p=6533) | 2013/10/31
+🛑 6533 |  — — Preventing Spammer Registration | [https://codex.buddypress.org/?p=6533](https://codex.buddypress.org/?p=6533) | 2013/10/31
 🛑 4408 |  — — Migrating from old forums to bbPress 2.2+ | [https://codex.buddypress.org/?p=4408](https://codex.buddypress.org/?p=4408) | 2012/11/22
 8542 |  Administrator Guide | [https://codex.buddypress.org/?p=8542](https://codex.buddypress.org/?p=8542) | 2014/11/09
 ♻️ 17466 |  — Alternative Registration Workflows | [https://codex.buddypress.org/?p=17466](https://codex.buddypress.org/?p=17466) | 2021/12/15
@@ -77,7 +77,7 @@ Page ID | Title | Link | Published on
 🛑 7838 |  — Edit User Profiles Admin Screen | [https://codex.buddypress.org/?p=7838](https://codex.buddypress.org/?p=7838) | 2014/04/16
 ♻️ 7825 |  — Notifications | [https://codex.buddypress.org/?p=7825](https://codex.buddypress.org/?p=7825) | 2014/04/16
 🛑 5671 |  — Activity Streams | [https://codex.buddypress.org/?p=5671](https://codex.buddypress.org/?p=5671) | 2013/05/07
-8557 |  — Moderate Activity Streams | [https://codex.buddypress.org/?p=8557](https://codex.buddypress.org/?p=8557) | 2014/11/09
+♻️ 8557 |  — Moderate Activity Streams | [https://codex.buddypress.org/?p=8557](https://codex.buddypress.org/?p=8557) | 2014/11/09
 🛑 5700 |  — Groups | [https://codex.buddypress.org/?p=5700](https://codex.buddypress.org/?p=5700) | 2013/05/08
 ♻️ 1688 |  — Group Settings and Roles | [https://codex.buddypress.org/?p=1688](https://codex.buddypress.org/?p=1688) | 2010/07/12
 🛑 7863 |  — BuddyPress Repair Tools Admin Screen | [https://codex.buddypress.org/?p=7863](https://codex.buddypress.org/?p=7863) | 2014/04/16
@@ -143,7 +143,7 @@ Page ID | Title | Link | Published on
 ♻️ 4465 |  — Creating a Plugin | [https://codex.buddypress.org/?p=4465](https://codex.buddypress.org/?p=4465) | 2012/12/01
 ♻️ 1451 |  — Checking For BuddyPress | [https://codex.buddypress.org/?p=1451](https://codex.buddypress.org/?p=1451) | 2010/02/23
 🛑 5217 |  — Admin UI for Groups | [https://codex.buddypress.org/?p=5217](https://codex.buddypress.org/?p=5217) | 2013/03/02
-6617 |  — Group Meta Queries: Usage Example | [https://codex.buddypress.org/?p=6617](https://codex.buddypress.org/?p=6617) | 2013/11/04
+🛑 6617 |  — Group Meta Queries: Usage Example | [https://codex.buddypress.org/?p=6617](https://codex.buddypress.org/?p=6617) | 2013/11/04
 🛑 5203 |  — Posting Activity from Plugins | [https://codex.buddypress.org/?p=5203](https://codex.buddypress.org/?p=5203) | 2013/03/01
 🛑 3824 |  — How to Edit Group Meta Tutorial | [https://codex.buddypress.org/?p=3824](https://codex.buddypress.org/?p=3824) | 2012/04/12
 🛑 6453 |  — Adding Your Plugin’s Link to the BuddyPress Member Toolbar Menu | [https://codex.buddypress.org/?p=6453](https://codex.buddypress.org/?p=6453) | 2013/10/23
@@ -151,20 +151,20 @@ Page ID | Title | Link | Published on
 🛑 5136 |  — Using BP Theme Compat in Plugins | [https://codex.buddypress.org/?p=5136](https://codex.buddypress.org/?p=5136) | 2013/02/19
 🛑 5379 |  — Upgrading older plugins that bundle custom templates for BP 1.7 | [https://codex.buddypress.org/?p=5379](https://codex.buddypress.org/?p=5379) | 2013/04/12
 🛑 6756 |  — Enqueueing Scripts or Styles only when your plugin needs it | [https://codex.buddypress.org/?p=6756](https://codex.buddypress.org/?p=6756) | 2013/11/17
-6280 |  Developer Resources | [https://codex.buddypress.org/?p=6280](https://codex.buddypress.org/?p=6280) | 2008/09/26
-16822 |  — Activity Stream and date_query | [https://codex.buddypress.org/?p=16822](https://codex.buddypress.org/?p=16822) | 2019/01/14
-7852 |  — Add Meta Box to Admin Extended User Profile | [https://codex.buddypress.org/?p=7852](https://codex.buddypress.org/?p=7852) | 2014/04/16
-5510 |  — Automated Testing | [https://codex.buddypress.org/?p=5510](https://codex.buddypress.org/?p=5510) | 2013/04/11
-5543 |  — — Writing automated tests for BuddyPress-dependent plugins | [https://codex.buddypress.org/?p=5543](https://codex.buddypress.org/?p=5543) | 2013/04/14
-6948 |  — BP PHPDoc Inline Documentation | [https://codex.buddypress.org/?p=6948](https://codex.buddypress.org/?p=6948) | 2013/12/04
+🛑 6280 |  Developer Resources | [https://codex.buddypress.org/?p=6280](https://codex.buddypress.org/?p=6280) | 2008/09/26
+🛑 16822 |  — Activity Stream and date_query | [https://codex.buddypress.org/?p=16822](https://codex.buddypress.org/?p=16822) | 2019/01/14
+🛑 7852 |  — Add Meta Box to Admin Extended User Profile | [https://codex.buddypress.org/?p=7852](https://codex.buddypress.org/?p=7852) | 2014/04/16
+🛑 5510 |  — Automated Testing | [https://codex.buddypress.org/?p=5510](https://codex.buddypress.org/?p=5510) | 2013/04/11
+♻️ 5543 |  — — Writing automated tests for BuddyPress-dependent plugins | [https://codex.buddypress.org/?p=5543](https://codex.buddypress.org/?p=5543) | 2013/04/14
+🛑 6948 |  — BP PHPDoc Inline Documentation | [https://codex.buddypress.org/?p=6948](https://codex.buddypress.org/?p=6948) | 2013/12/04
 ♻️ 4688 |  — BP_Component | [https://codex.buddypress.org/?p=4688](https://codex.buddypress.org/?p=4688) | 2012/12/02
 6003 |  — BP_Group_Member_Query | [https://codex.buddypress.org/?p=6003](https://codex.buddypress.org/?p=6003) | 2013/07/18
 4208 |  — BP_User_Query | [https://codex.buddypress.org/?p=4208](https://codex.buddypress.org/?p=4208) | 2012/09/07
 ♻️ 7566 |  — BuddyPress Action Hook Sequence During Startup | [https://codex.buddypress.org/?p=7566](https://codex.buddypress.org/?p=7566) | 2014/03/11
 6650 |  — BuddyPress Database Diagram | [https://codex.buddypress.org/?p=6650](https://codex.buddypress.org/?p=6650) | 2013/11/09
-5176 |  — Checking for Active Components in Plugins or Themes | [https://codex.buddypress.org/?p=5176](https://codex.buddypress.org/?p=5176) | 2013/02/22
+🛑 5176 |  — Checking for Active Components in Plugins or Themes | [https://codex.buddypress.org/?p=5176](https://codex.buddypress.org/?p=5176) | 2013/02/22
 ♻️ 6117 |  — Filters & Constants Reference | [https://codex.buddypress.org/?p=6117](https://codex.buddypress.org/?p=6117) | 2013/08/18
-5193 |  — — bp_get_template_part Filter | [https://codex.buddypress.org/?p=5193](https://codex.buddypress.org/?p=5193) | 2013/02/28
+🛑 5193 |  — — bp_get_template_part Filter | [https://codex.buddypress.org/?p=5193](https://codex.buddypress.org/?p=5193) | 2013/02/28
 🛑 6081 |  — Function Examples | [https://codex.buddypress.org/?p=6081](https://codex.buddypress.org/?p=6081) | 2013/08/10
 🛑 5910 |  — — bp_activity_action_spam_activity() | [https://codex.buddypress.org/?p=5910](https://codex.buddypress.org/?p=5910) | 2013/06/28
 🛑 6194 |  — — bp_activity_add() | [https://codex.buddypress.org/?p=6194](https://codex.buddypress.org/?p=6194) | 2013/09/29
@@ -193,15 +193,15 @@ Page ID | Title | Link | Published on
 🛑 714 |  — — Private Messages Loop | [https://codex.buddypress.org/?p=714](https://codex.buddypress.org/?p=714) | 2009/04/29
 🛑 723 |  — — Profile Fields Loop | [https://codex.buddypress.org/?p=723](https://codex.buddypress.org/?p=723) | 2009/04/29
 ♻️ 14566 |  — Member Types | [https://codex.buddypress.org/?p=14566](https://codex.buddypress.org/?p=14566) | 2014/12/08
-16021 |  — Navigation API | [https://codex.buddypress.org/?p=16021](https://codex.buddypress.org/?p=16021) | 2016/07/08
+♻️ 16021 |  — Navigation API | [https://codex.buddypress.org/?p=16021](https://codex.buddypress.org/?p=16021) | 2016/07/08
 🛑 8655 |  — User Submitted Guides | [https://codex.buddypress.org/?p=8655](https://codex.buddypress.org/?p=8655) | 2014/11/24
 🛑 16038 |  — — Change « Activity » component’s name and slug to something else. | [https://codex.buddypress.org/?p=16038](https://codex.buddypress.org/?p=16038) | 2016/07/19
 🛑 6696 |  — — How to Add Members to a Group via WP Users Screen | [https://codex.buddypress.org/?p=6696](https://codex.buddypress.org/?p=6696) | 2013/11/11
 🛑 8603 |  — — Useful Functions and Hacks When Using S2member w/ BuddyPress | [https://codex.buddypress.org/?p=8603](https://codex.buddypress.org/?p=8603) | 2014/11/19
-7843 |  — Using bp_parse_args() to filter BuddyPress template loops | [https://codex.buddypress.org/?p=7843](https://codex.buddypress.org/?p=7843) | 2014/04/16
-854 |  — Template Tag Reference | [https://codex.buddypress.org/?p=854](https://codex.buddypress.org/?p=854) | 2009/06/12
+🛑 7843 |  — Using bp_parse_args() to filter BuddyPress template loops | [https://codex.buddypress.org/?p=7843](https://codex.buddypress.org/?p=7843) | 2014/04/16
+🛑 854 |  — Template Tag Reference | [https://codex.buddypress.org/?p=854](https://codex.buddypress.org/?p=854) | 2009/06/12
 ♻️ 5957 |  — Group Extension API | [https://codex.buddypress.org/?p=5957](https://codex.buddypress.org/?p=5957) | 2013/07/16
-6809 |  — Playing with the user’s ID in different contexts | [https://codex.buddypress.org/?p=6809](https://codex.buddypress.org/?p=6809) | 2013/11/23
+🛑 6809 |  — Playing with the user’s ID in different contexts | [https://codex.buddypress.org/?p=6809](https://codex.buddypress.org/?p=6809) | 2013/11/23
 🛑 761 |  — The $bp Global | [https://codex.buddypress.org/?p=761](https://codex.buddypress.org/?p=761) | 2009/05/05
 🛑 1032 |  — Deprecated | [https://codex.buddypress.org/?p=1032](https://codex.buddypress.org/?p=1032) | 2009/09/02
 🛑 270 |  — — bp_core_add_nav_item() | [https://codex.buddypress.org/?p=270](https://codex.buddypress.org/?p=270) | 2009/01/03
