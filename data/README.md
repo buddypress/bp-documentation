@@ -67,7 +67,7 @@ Page ID | Title | Link | Published on
 🛑 6504 |  — — Modifying the Registration Form | [https://codex.buddypress.org/?p=6504](https://codex.buddypress.org/?p=6504) | 2013/10/31
 🛑 6533 |  — — Preventing Spammer Registration | [https://codex.buddypress.org/?p=6533](https://codex.buddypress.org/?p=6533) | 2013/10/31
 🛑 4408 |  — — Migrating from old forums to bbPress 2.2+ | [https://codex.buddypress.org/?p=4408](https://codex.buddypress.org/?p=4408) | 2012/11/22
-8542 |  Administrator Guide | [https://codex.buddypress.org/?p=8542](https://codex.buddypress.org/?p=8542) | 2014/11/09
+🛑 8542 |  Administrator Guide | [https://codex.buddypress.org/?p=8542](https://codex.buddypress.org/?p=8542) | 2014/11/09
 ♻️ 17466 |  — Alternative Registration Workflows | [https://codex.buddypress.org/?p=17466](https://codex.buddypress.org/?p=17466) | 2021/12/15
 🛑 5680 |  — Members | [https://codex.buddypress.org/?p=5680](https://codex.buddypress.org/?p=5680) | 2013/05/07
 🛑 5647 |  — Messages | [https://codex.buddypress.org/?p=5647](https://codex.buddypress.org/?p=5647) | 2013/05/07
@@ -129,7 +129,7 @@ Page ID | Title | Link | Published on
 🛑 5641 |  — BuddyPress Widgets | [https://codex.buddypress.org/?p=5641](https://codex.buddypress.org/?p=5641) | 2013/05/07
 ♻️ 14455 |  — Activity dropdown filters in templates | [https://codex.buddypress.org/?p=14455](https://codex.buddypress.org/?p=14455) | 2014/12/01
 🛑 6727 |  — BP Default Theme – moving forward with BP 1.9 | [https://codex.buddypress.org/?p=6727](https://codex.buddypress.org/?p=6727) | 2013/11/14
-5579 |  — Members Navigation Menus | [https://codex.buddypress.org/?p=5579](https://codex.buddypress.org/?p=5579) | 2013/04/24
+🛑 5579 |  — Members Navigation Menus | [https://codex.buddypress.org/?p=5579](https://codex.buddypress.org/?p=5579) | 2013/04/24
 🛑 14557 |  — User Submitted Guides | [https://codex.buddypress.org/?p=14557](https://codex.buddypress.org/?p=14557) | 2014/12/08
 🛑 6535 |  — — Customizing BuddyPress Avatars | [https://codex.buddypress.org/?p=6535](https://codex.buddypress.org/?p=6535) | 2013/10/31
 🛑 6525 |  — — Displaying Extended Profile Fields on Member Profiles | [https://codex.buddypress.org/?p=6525](https://codex.buddypress.org/?p=6525) | 2013/10/31
@@ -158,10 +158,10 @@ Page ID | Title | Link | Published on
 ♻️ 5543 |  — — Writing automated tests for BuddyPress-dependent plugins | [https://codex.buddypress.org/?p=5543](https://codex.buddypress.org/?p=5543) | 2013/04/14
 🛑 6948 |  — BP PHPDoc Inline Documentation | [https://codex.buddypress.org/?p=6948](https://codex.buddypress.org/?p=6948) | 2013/12/04
 ♻️ 4688 |  — BP_Component | [https://codex.buddypress.org/?p=4688](https://codex.buddypress.org/?p=4688) | 2012/12/02
-6003 |  — BP_Group_Member_Query | [https://codex.buddypress.org/?p=6003](https://codex.buddypress.org/?p=6003) | 2013/07/18
-4208 |  — BP_User_Query | [https://codex.buddypress.org/?p=4208](https://codex.buddypress.org/?p=4208) | 2012/09/07
+🛑 6003 |  — BP_Group_Member_Query | [https://codex.buddypress.org/?p=6003](https://codex.buddypress.org/?p=6003) | 2013/07/18
+♻️ 4208 |  — BP_User_Query | [https://codex.buddypress.org/?p=4208](https://codex.buddypress.org/?p=4208) | 2012/09/07
 ♻️ 7566 |  — BuddyPress Action Hook Sequence During Startup | [https://codex.buddypress.org/?p=7566](https://codex.buddypress.org/?p=7566) | 2014/03/11
-6650 |  — BuddyPress Database Diagram | [https://codex.buddypress.org/?p=6650](https://codex.buddypress.org/?p=6650) | 2013/11/09
+♻️ 6650 |  — BuddyPress Database Diagram | [https://codex.buddypress.org/?p=6650](https://codex.buddypress.org/?p=6650) | 2013/11/09
 🛑 5176 |  — Checking for Active Components in Plugins or Themes | [https://codex.buddypress.org/?p=5176](https://codex.buddypress.org/?p=5176) | 2013/02/22
 ♻️ 6117 |  — Filters & Constants Reference | [https://codex.buddypress.org/?p=6117](https://codex.buddypress.org/?p=6117) | 2013/08/18
 🛑 5193 |  — — bp_get_template_part Filter | [https://codex.buddypress.org/?p=5193](https://codex.buddypress.org/?p=5193) | 2013/02/28
@@ -225,16 +225,16 @@ Page ID | Title | Link | Published on
 🛑 884 |  — Turkish – Türkçe (tr_TR) | [https://codex.buddypress.org/?p=884](https://codex.buddypress.org/?p=884) | 2009/06/21
 🛑 756 |  — Vietnamese – Vietnam (vi) | [https://codex.buddypress.org/?p=756](https://codex.buddypress.org/?p=756) | 2009/05/05
 1846 |  Participate and Contribute | [https://codex.buddypress.org/?p=1846](https://codex.buddypress.org/?p=1846) | 2010/09/15
-6107 |  — Codex Standards & Guidelines | [https://codex.buddypress.org/?p=6107](https://codex.buddypress.org/?p=6107) | 2013/10/12
+🛑 6107 |  — Codex Standards & Guidelines | [https://codex.buddypress.org/?p=6107](https://codex.buddypress.org/?p=6107) | 2013/10/12
 ♻️ 17230 |  — Contribute with Code | [https://codex.buddypress.org/?p=17230](https://codex.buddypress.org/?p=17230) | 2020/09/06
-14771 |  — Providing Support at the BuddyPress Forums | [https://codex.buddypress.org/?p=14771](https://codex.buddypress.org/?p=14771) | 2015/02/11
+♻️ 14771 |  — Providing Support at the BuddyPress Forums | [https://codex.buddypress.org/?p=14771](https://codex.buddypress.org/?p=14771) | 2015/02/11
 ♻️ 1208 |  — Reporting Bugs | [https://codex.buddypress.org/?p=1208](https://codex.buddypress.org/?p=1208) | 2009/10/21
 15730 |  Emails | [https://codex.buddypress.org/?p=15730](https://codex.buddypress.org/?p=15730) | 2016/01/17
 16856 |  — Add Email Token | [https://codex.buddypress.org/?p=16856](https://codex.buddypress.org/?p=16856) | 2019/02/09
 15766 |  — Custom Emails | [https://codex.buddypress.org/?p=15766](https://codex.buddypress.org/?p=15766) | 2016/01/22
 15732 |  — Email Tokens | [https://codex.buddypress.org/?p=15732](https://codex.buddypress.org/?p=15732) | 2016/01/25
 16877 |  — Filter Emails | [https://codex.buddypress.org/?p=16877](https://codex.buddypress.org/?p=16877) | 2019/04/27
-7159 |  Mobile | [https://codex.buddypress.org/?p=7159](https://codex.buddypress.org/?p=7159) | 2013/12/14
+🛑 7159 |  Mobile | [https://codex.buddypress.org/?p=7159](https://codex.buddypress.org/?p=7159) | 2013/12/14
 ♻️ 1249 |  Official Logos and Typeface | [https://codex.buddypress.org/?p=1249](https://codex.buddypress.org/?p=1249) | 2009/12/07
 🛑 2262 |  Template Pack Walkthrough – Easy Level | [https://codex.buddypress.org/?p=2262](https://codex.buddypress.org/?p=2262) | 2010/10/13
 🛑 2958 |  Template Pack Walkthrough – Twenty Eleven | [https://codex.buddypress.org/?p=2958](https://codex.buddypress.org/?p=2958) | 2011/10/04
