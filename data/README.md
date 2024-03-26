@@ -22,7 +22,7 @@ Page ID | Title | Link | Published on
 🛑 350 |  Groups | [https://codex.buddypress.org/?p=350](https://codex.buddypress.org/?p=350) | 2009/01/20
 🛑 368 |  Private Messaging | [https://codex.buddypress.org/?p=368](https://codex.buddypress.org/?p=368) | 2009/01/20
 🛑 355 |  Extended Profiles | [https://codex.buddypress.org/?p=355](https://codex.buddypress.org/?p=355) | 2009/01/20
-1616 |  BuddyPress Codex | [https://codex.buddypress.org/?p=1616](https://codex.buddypress.org/?p=1616) | 2010/05/01
+🛑 1616 |  BuddyPress Codex | [https://codex.buddypress.org/?p=1616](https://codex.buddypress.org/?p=1616) | 2010/05/01
 ♻️ 5761 |  BuddyPress Components and Features | [https://codex.buddypress.org/?p=5761](https://codex.buddypress.org/?p=5761) | 2013/05/17
 ♻️ 6626 |  — WordPress Blogs | [https://codex.buddypress.org/?p=6626](https://codex.buddypress.org/?p=6626) | 2013/12/11
 ♻️ 6255 |  Getting Started | [https://codex.buddypress.org/?p=6255](https://codex.buddypress.org/?p=6255) | 2013/10/03
@@ -224,16 +224,16 @@ Page ID | Title | Link | Published on
 🛑 150 |  — Spanish – Español Genérico (es_ES) | [https://codex.buddypress.org/?p=150](https://codex.buddypress.org/?p=150) | 2008/12/08
 🛑 884 |  — Turkish – Türkçe (tr_TR) | [https://codex.buddypress.org/?p=884](https://codex.buddypress.org/?p=884) | 2009/06/21
 🛑 756 |  — Vietnamese – Vietnam (vi) | [https://codex.buddypress.org/?p=756](https://codex.buddypress.org/?p=756) | 2009/05/05
-1846 |  Participate and Contribute | [https://codex.buddypress.org/?p=1846](https://codex.buddypress.org/?p=1846) | 2010/09/15
+♻️ 1846 |  Participate and Contribute | [https://codex.buddypress.org/?p=1846](https://codex.buddypress.org/?p=1846) | 2010/09/15
 🛑 6107 |  — Codex Standards & Guidelines | [https://codex.buddypress.org/?p=6107](https://codex.buddypress.org/?p=6107) | 2013/10/12
 ♻️ 17230 |  — Contribute with Code | [https://codex.buddypress.org/?p=17230](https://codex.buddypress.org/?p=17230) | 2020/09/06
 ♻️ 14771 |  — Providing Support at the BuddyPress Forums | [https://codex.buddypress.org/?p=14771](https://codex.buddypress.org/?p=14771) | 2015/02/11
 ♻️ 1208 |  — Reporting Bugs | [https://codex.buddypress.org/?p=1208](https://codex.buddypress.org/?p=1208) | 2009/10/21
-15730 |  Emails | [https://codex.buddypress.org/?p=15730](https://codex.buddypress.org/?p=15730) | 2016/01/17
-16856 |  — Add Email Token | [https://codex.buddypress.org/?p=16856](https://codex.buddypress.org/?p=16856) | 2019/02/09
-15766 |  — Custom Emails | [https://codex.buddypress.org/?p=15766](https://codex.buddypress.org/?p=15766) | 2016/01/22
-15732 |  — Email Tokens | [https://codex.buddypress.org/?p=15732](https://codex.buddypress.org/?p=15732) | 2016/01/25
-16877 |  — Filter Emails | [https://codex.buddypress.org/?p=16877](https://codex.buddypress.org/?p=16877) | 2019/04/27
+♻️ 15730 |  Emails | [https://codex.buddypress.org/?p=15730](https://codex.buddypress.org/?p=15730) | 2016/01/17
+🛑 16856 |  — Add Email Token | [https://codex.buddypress.org/?p=16856](https://codex.buddypress.org/?p=16856) | 2019/02/09
+🛑 15766 |  — Custom Emails | [https://codex.buddypress.org/?p=15766](https://codex.buddypress.org/?p=15766) | 2016/01/22
+♻️ 15732 |  — Email Tokens | [https://codex.buddypress.org/?p=15732](https://codex.buddypress.org/?p=15732) | 2016/01/25
+🛑 16877 |  — Filter Emails | [https://codex.buddypress.org/?p=16877](https://codex.buddypress.org/?p=16877) | 2019/04/27
 🛑 7159 |  Mobile | [https://codex.buddypress.org/?p=7159](https://codex.buddypress.org/?p=7159) | 2013/12/14
 ♻️ 1249 |  Official Logos and Typeface | [https://codex.buddypress.org/?p=1249](https://codex.buddypress.org/?p=1249) | 2009/12/07
 🛑 2262 |  Template Pack Walkthrough – Easy Level | [https://codex.buddypress.org/?p=2262](https://codex.buddypress.org/?p=2262) | 2010/10/13
