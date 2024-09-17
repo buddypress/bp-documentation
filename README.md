@@ -2,14 +2,16 @@
 
 This repository is used by the BuddyPress team to track required Documentation tasks in order to organize collaboration about these.
 
-## BP Codex migration meta task
+## BP Documentation roadmap
 
-You can first contribute to updating BP Documentation resources by picking [one of these listed BP Codex pages](./data/README.md) and submitting a new Issue (Migrate or Ignore task) to this repository.
+- [x] Create a migrate task for each existing BuddyPress codex page.
+- [] Review tasks and create a Pull Request on https://github.com/buddypress/buddypress to update/migrate/add documentation resources for [users](https://github.com/buddypress/buddypress/tree/master/docs/user), [developers](https://github.com/buddypress/buddypress/tree/master/docs/developer) and [contributors](https://github.com/buddypress/buddypress/tree/master/docs/contributor).
+- [] Once a first version of the documentation meets our expectations: create a bridge between GitHub and new BuddyPress.org network sites to replace the BuddyPress Codex.
+- [] Keep the BuddyPress Codex as a documentation archive.
+- [] Carry on updating documentation using GitHub
 
-## BP Documentation meta task
 
-You can also contribute to adding BP Documentation resources by submitting a new Issue (Add task) to this repository.
-
-## BP Documentation maintenance meta task
-
-Once we'll have a strong candidate to "release" for each available handbook we're working on from the buddypress GitHub repository, we'll add a new site about it into the BuddyPress.org network and we'll see what's the best option to keep it updated (Synchronizing GitHub or using the WordPress site's workflow).
+## BP Documentation choices
+- [July 12, 2023](https://bpdevel.wordpress.com/2023/07/24/bp-docs-chat-summary-july-12-2023/): use BuddyPress code repository to reorganize/migrate/update/improve the BuddyPress Codex.
+- [January 10, 2024](https://bpdevel.wordpress.com/2024/01/13/bp-docs-chat-summary-january-10-2024/): create this repository to track BuddyPress Codex migration tasks as well as new documentation tasks.
+- [January 24, 2024](https://bpdevel.wordpress.com/2024/02/06/bp-docs-chat-summary-january-24-2024/): using GitHub to contribute on the next BuddyPress documentation is our choice & it's a good one!
